@@ -1,0 +1,1688 @@
+﻿dni,nombres,apellidos,telefono,sexo,salario,departamento
+00191447,Juan,Alvarado Castro,976216789,M,2500.00,Administración General
+00190447,William,Alvarez Gonzales,976345123,M,3400.00,Investigación y Desarrollo (I+D)
+00731314,Roberto,Aguirre Díaz,976207535,M,4000.00,Investigación y Desarrollo (I+D)
+00900327,Martin,Oya Salazar,976264536,M,3000.00,Dirección Estratégica
+00284073,Ramiro,Ortega Rios,976476589,M,2000.00,Dirección Estratégica
+00562803,Percy,Ortiz Romero,976698571,M,1200.00,Administración General
+00823624,Ana Maria,Araujo Montenegro,976468945,F,3500.00,Administración General
+00783820,Luis,Otoya Siesquen,976458923,M,2000.00,Investigación y Desarrollo (I+D)
+00340805,Yvan,Orna López,976458921,M,3000.00,None
+00007945,Alberto,Ordoñez Trujillo,976257058,M,2400.00,Logística
+00374765,Carlos,Aragón Sanchez,976235664,M,2800.00,Administración General
+73675420,IRENE,Atalaya Urrutia,978565955,F,2360.00,Finanzas
+00120344,Alex,Olenka Rivera,976481263,M,3200.00,Administración General
+00466975,Julio,Adrianzen Tello,976246578,M,4500.00,Dirección Estratégica
+00915406,Rosa,Arce Rodríguez,976221785,F,2800.00,Dirección Estratégica
+00190380,Priscila,Oliden Larios,976425843,F,4000.00,Logística
+00558692,Christian,Albujar Colchado,976348996,M,3400.00,Investigación y Desarrollo (I+D)
+00246980,Olguin,Santa Cruz Mirian,976225874,M,3000.00,Logística
+00282384,Carlos,Alcides Fernandez,976228965,M,3800.00,Dirección Estratégica
+00775642,Juan,Ortiz Carrion,976526978,M,2500.00,Dirección Estratégica
+00640532,Angela,Aguilar Suarez,976206567,F,4500.00,Dirección Estratégica
+01479628,Martín,Leyva Cruzado,976224587,M,3000.00,None
+01580740,José,Zegarra Cavero,976250911,M,3500.00,None
+01590841,Georgina,Lamas Sanchez,976203469,F,2500.00,None
+01691852,Flor,Lozano Arias,976264780,F,3000.00,None
+01601953,Zaraí,Zomocurcio Zapata,976245877,F,1500.00,None
+01702964,Pedro,Zuloaga Izquierdo,976660544,M,4000.00,None
+01712065,Susan,León Aguirre,976231155,F,2000.00,None
+01813166,Enrique,López Zorrilla,976207315,M,3500.00,None
+01923470,Jorge,Zavala Roque,976664670,M,2500.00,None
+01489379,Juan,Zapata Rodriguez,976237159,M,3000.00,None
+02988776,Carla,Briones Albujar,976273425,F,4900.00,None
+02998855,Martha,Muro Bances,976450678,M,2800.00,Administración General
+029878855,Karolina,Panta Fernandez,976213498,F,4100.00,Investigación y Desarrollo (I+D)
+02012345,Javier,Melendez Rojas,"None",M,2000.00,Dirección Estratégica
+02999888,Juan,Mendoza Celis,976234543,M,5000.00,Investigación y Desarrollo (I+D)
+02999886,Maria,Morales Fernandez,976345678,M,4500.00,Dirección Estratégica
+02999877,Elvira,Mesones Ordoñes,976237895,F,5000.00,None
+02663355,Joaquin,Puertas Luna,976283468,M,3100.00,Investigación y Desarrollo (I+D)
+02998866,Antonio,Morante Ramirez,976254312,M,2500.00,Investigación y Desarrollo (I+D)
+02886855,Andrea,Pantoja Rodriguez,976263598,F,4300.00,Administración General
+41819042,Jacinto,Yataco Torrealva,"None",M,5000.00,Investigación y Desarrollo (I+D)
+40293845,Boris,Jiménez Matallana,976982736,M,3500.00,Investigación y Desarrollo (I+D)
+25347586,Ivonne,Yactahuamán Calúa,976202020,F,2500.00,Administración General
+19283746,Lizbeth,Julca Gastelo,"None",F,3500.00,Administración General
+43245678,Richard,Jaramillo Delgado,976999928,M,4500.00,Investigación y Desarrollo (I+D)
+19640283,Zarella,Yañez Ruiz,976208417,F,2500.00,Investigación y Desarrollo (I+D)
+73645832,Vladimir,Yriarte Duschenko,976283745,M,3500.00,Administración General
+29374752,Artemio,Jirafales Pérez,976283751,M,4500.00,Dirección Estratégica
+49485736,Oscar,Yúncor Llontop,"None",M,4750.00,None
+28374653,Renzo,Juárez Picardo,"None",M,3200.00,Dirección Estratégica
+47992020,Flor,Yapzáng Yovera,976827345,F,5000.00,Dirección Estratégica
+54705368,Luis,Fernández Mendoza,491851704,M,701.00,Administración General
+16783820,Luis,Perales Siesquen,"None",M,2600.00,Dirección Estratégica
+15900327,Martin,Prado Salazar,"None",M,1400.00,Investigación y Desarrollo (I+D)
+18784545,William,Barboza Gonzalez,"None",M,2000.00,Investigación y Desarrollo (I+D)
+31637254,EUGENIO,Bocanegra Nahuinmallma,975740733,M,3114.00,Estrategia y Planificación
+41943035,Martín,Bobadilla Achulli,975718932,M,1689.00,Recursos Humanos
+52900148,FELIX,VASQUEZ CORONADO,979452714,M,3164.00,Investigación y Desarrollo (I+D)
+91476060,Jorge,Rodríguez Castillo,531149341,M,3014.00,Desarrollo de Producto
+42474739,ALEJANDRO,Chávez Mestanza,976152877,M,2815.00,Dirección Estratégica
+86743531,Aleix,Gomez Hidalgo,978787513,M,3369.00,Estrategia y Planificación
+89423662,Sofía,García Chávez,106283030,F,3937.00,Contabilidad
+96784989,Fernando,Fernández Chávez,207548458,M,2941.00,Logística
+864690541,SERGIO,temoche bardales,978849143,M,3967.00,Legal
+13464471,Carmen,Fernández Ortiz,303571866,F,2781.00,Dirección Estratégica
+91418488,Claudia,Sánchez Gómez,353179952,F,2138.00,Dirección Estratégica
+51486079,Lucía,Rodríguez Flores,521015777,F,4574.00,Dirección Estratégica
+48733194,María,Rodríguez Ramos,323579557,F,3210.00,Logística
+61888180,Francisco,García Mendoza,487660907,M,2240.00,Responsabilidad Social Corporativa
+20168023,ERIC,OCHOA NAVARRO,976130587,M,3324.00,Finanzas
+83553849,Patricia,Cruz Mendoza,506455229,F,5000.00,Mantenimiento
+62508588,Gabriela,González Mendoza,129002066,F,1114.00,Recursos Humanos
+27733606,Pedro,Ramírez Morales,337896162,M,3332.00,Marketing
+97269925,ISABEL,Martos Paredes,978690381,F,3364.00,Marketing
+76585814,María,Rodríguez Chávez,323076303,F,3409.00,Responsabilidad Social Corporativa
+19007945,Alberto,Balladares Tirado,"None",M,1900.00,Dirección Estratégica
+81251682,CRISTOBAL,CHAVARRI NATIVIDAD,977953529,M,4128.00,Dirección Estratégica
+33225191,ALFREDO,Villanueva Albuquerque,977530046,M,2584.00,Tecnologías de la Información (TI)
+75225808,Pedro,González Suárez,837860078,M,4550.00,Marketing
+86876018,MARC,SALAZAR VALDERRAMA,979387761,M,2392.00,Atención al Cliente
+338427038,GERMAN,Paiva Neciosup,975820809,M,3922.00,Finanzas
+60562848,Gabriela,Sánchez Ortiz,918440475,F,3739.00,Ventas
+96153634,Isabel,Martínez Morales,680154815,F,540.00,Compras
+67595647,Miguel,Martínez Morales,346787591,M,2872.00,Contabilidad
+97925315,Laura,Cruz Gómez,493195844,F,2281.00,Marketing
+73969417,Jorge,Sánchez Torres,181817419,M,3299.00,Compras
+15856550,Ana,González Flores,599700902,F,5000.00,Recursos Humanos
+70108261,INES,Maltos Magdaleno,979016996,F,4531.00,Marketing
+35068141,Claudia,López Ramos,130303216,F,1848.00,Finanzas
+24006502,Juan,Pérez Gómez,112622762,M,3347.00,Marketing
+42010957,MAGDALENA,LIMA NARVAEZ,977475754,F,4464.00,Legal
+79330575,Manuel,Cruz Chávez,657539906,M,3817.00,Logística
+14562800,Percy,Puertas Romero,"None",M,2600.00,Dirección Estratégica
+85588462,Juan,Rodríguez Flores,206957419,M,3727.00,Seguridad y Salud Ocupacional
+91352524,Claudia,Fernández Mendoza,966701653,F,531.00,Logística
+18151612,José,Silva Torres,"None",M,3000.00,Investigación y Desarrollo (I+D)
+31744252,Dylan,MOISES BRUNA,979191041,M,2067.00,Investigación y Desarrollo (I+D)
+42056937,Manuel,Sánchez Morales,556576267,M,2092.00,Tecnologías de la Información (TI)
+83259316,Claudia,Ramírez Morales,460899810,F,1996.00,Producción
+12976733,José,Fernández Morales,744544126,M,2327.00,Dirección Estratégica
+56248774,Luis,Martínez Torres,169711110,M,3387.00,Responsabilidad Social Corporativa
+96410899,Anas,Paico Marín,978929710,M,1729.00,Contabilidad
+70014874,Lucía,López Chávez,470565157,F,3990.00,Marketing
+28260920,Lucía,Ramírez Mendoza,590758070,F,2374.00,Compras
+82976063,CRISTIAN,ZAVALETA CARO,977813415,M,2899.00,Investigación y Desarrollo (I+D)
+84515595,Antonio,Castañeda Ballesteros,977502158,M,2894.00,Recursos Humanos
+33287695,Lucía,Ramírez Gómez,919372355,F,1625.00,Estrategia y Planificación
+54212326,Manuel,Ramírez Gómez,915658219,M,2436.00,Finanzas
+11282384,Carlos,Benites Castro,"None",M,4000.00,Investigación y Desarrollo (I+D)
+51326841,Ana,Fernández Ramos,959126266,F,3648.00,Legal
+59797328,Gabriela,Cruz Chávez,602687826,F,3081.00,Ventas
+58942169,Enzo,León Alvarez,976525697,M,4661.00,Marketing
+66038751,JOSE IGNACIO,Otoya Altamirano,979513954,M,1804.00,Contabilidad
+59880893,ESPERANZA,López Molina,978204064,F,2776.00,Administración General
+42125445,JOSE LUIS,Quispe Merino,979408531,M,2663.00,Calidad
+53208050,PAULA,Mechán Sánchez,977408751,F,4545.00,Recursos Humanos
+61270988,María,Sánchez Suárez,685797435,F,2238.00,Mantenimiento
+38045402,José,Cruz Torres,371007887,M,538.00,Compras
+61386822,Francisco,Ramírez Chávez,179337158,M,5000.00,Finanzas
+36134513,TOMAS,Arteaga Carhua,977025160,M,3581.00,Producción
+12374765,Carlos,Balladares Sanchez,"None",M,1400.00,Investigación y Desarrollo (I+D)
+24153630,Luis,Martínez Gómez,615542981,M,2352.00,Estrategia y Planificación
+66255599,PABLO,Coronado Muñoz,978591584,M,2915.00,Atención al Cliente
+32142715,CLARA,Mejía Gutiérrez,977757836,F,2718.00,Marketing
+39751270,Claudia,Pérez Gómez,361543675,F,2011.00,Estrategia y Planificación
+21650612,Laura,Rodríguez Torres,396960710,F,2486.00,Estrategia y Planificación
+20897451,DANIELA,Maguey Tajín,976839614,F,3145.00,Atención al Cliente
+44442813,Luis,Cruz Gómez,987033272,M,1032.00,Recursos Humanos
+51014316,Juan,Fernández Ramos,235715521,M,1527.00,Contabilidad
+56306144,Lucía,Ramírez Ortiz,666017984,F,4084.00,Mantenimiento
+76078603,Patricia,Ramírez Gómez,230928945,F,3261.00,Desarrollo de Producto
+76477850,Jorge,Rodríguez Mendoza,864633449,M,1776.00,Ventas
+76863925,Isabel,Fernández Suárez,268530518,F,3636.00,Atención al Cliente
+73548809,Lucía,Fernández Mendoza,444072043,F,2501.00,Investigación y Desarrollo (I+D)
+31481939,ADRIAN,JARA RIQUELME,979526208,M,3342.00,Producción
+75378252,Sofía,Sánchez Suárez,508151414,F,1781.00,Atención al Cliente
+10614779,Patricia,Martínez Torres,135491083,F,1542.00,Mantenimiento
+14340805,Yvan,Prada López,"None",M,1400.00,Investigación y Desarrollo (I+D)
+77350407,Claudia,Fernández Morales,506569922,F,5000.00,Desarrollo de Producto
+53465743,Fernando,Martínez Morales,981105678,M,3803.00,Logística
+13041970,Patricia,Sánchez Suárez,260867771,F,1322.00,Investigación y Desarrollo (I+D)
+61000363,María,Martínez Gómez,622775535,F,2137.00,Investigación y Desarrollo (I+D)
+27136622,María,Pérez Torres,616427147,F,4262.00,Compras
+13466975,Julio,Bances Sanchez,"None",M,4000.00,Administración General
+23156915,Ignacio,Alvarez Loaiza,976012875,M,4553.00,Finanzas
+17190380,Priscila,Pérez Larios,"None",F,2550.00,Dirección Estratégica
+27036194,Patricia,Sánchez Chávez,708267956,F,2585.00,Producción
+43135068,Miguel,Sánchez Suárez,553835717,M,2779.00,Recursos Humanos
+86355959,Claudia,Fernández Torres,679503631,F,3418.00,Finanzas
+50280237,Lucía,Rodríguez Flores,812639738,F,2076.00,Responsabilidad Social Corporativa
+37696980,MARIA ELENA,Huanca Cuellar,977986178,F,1675.00,Producción
+62706188,José,Pérez Mendoza,526578470,M,1398.00,Investigación y Desarrollo (I+D)
+72993621,Claudia,González Ortiz,320521557,F,1793.00,Legal
+65006741,MANUELA,León Junco,975726255,F,3588.00,Contabilidad
+75285982,José,González Morales,914018703,M,3834.00,Finanzas
+46941067,Francisco,Ramírez Torres,554010148,M,2927.00,Mantenimiento
+84520194,Luis,García Flores,963618225,M,3372.00,Calidad
+45071036,FELIX,Velásquez Acosta,979206591,M,3682.00,Recursos Humanos
+63427440,Manuel,Fernández Mendoza,763844941,M,1451.00,Legal
+75904187,José,González Mendoza,751630884,M,4093.00,Dirección Estratégica
+12120344,Alex,Peña Rivera,"None",M,2600.00,Dirección Estratégica
+40114310,MANUELA,Durand Silva,978026313,F,4238.00,Calidad
+96076687,ANGELES,Mora Herrera,976357342,F,3052.00,Compras
+14558692,Chrisian,Bellavista Tello,"None",M,1500.00,Administración General
+35106608,Fabio,Arboleda londoño,976084399,M,4048.00,Tecnologías de la Información (TI)
+20772310,Laura,Sánchez Ortiz,191687973,F,4132.00,Compras
+32468435,SAMUEL,Chi Velueta,975685984,M,4492.00,Atención al Cliente
+60891214,PEDRO,Castañeda Ruiz,979400522,M,4098.00,Marketing
+19600020,Jorge,Fernández Ortiz,978903866,M,1517.00,Finanzas
+78730082,Jorge,Cruz Torres,331437919,M,753.00,Marketing
+94111611,Lucía,López Ramos,438061366,F,5000.00,Legal
+53805092,Youssef,Chavez Manayalle,979100411,M,1568.00,Administración General
+13560753,Ana,García Torres,937073111,F,1260.00,Recursos Humanos
+74332609,Carmen,González Chávez,497209222,F,5000.00,Marketing
+61270988,María,Sánchez Suárez,685797435,F,2238.00,Mantenimiento
+66027816,Luis,Sánchez Flores,156760130,M,2822.00,Tecnologías de la Información (TI)
+93687818,Ana,Ramírez Ramos,809667957,F,657.00,Legal
+11158645,Claudia,Pérez Morales,201737388,F,440.00,Mantenimiento
+50575514,Lucía,Pérez Ramos,973321593,F,4411.00,Mantenimiento
+21378153,JUAN JOSE,Zulueta Rivera,979342641,M,3512.00,Dirección Estratégica
+99755453,BELEN,BENAVIDES LARA,978663255,F,2474.00,Calidad
+12001012,Karla,Palomino Huaman,"None",F,1650.00,Logística
+75821626,CELIA,Roa Montoya,976605274,F,3377.00,Atención al Cliente
+15640532,Angela,Bobadilla Suarez,"None",F,2000.00,Administración General
+766976112,Laura,Sánchez Chávez,914099716,F,4426.00,Calidad
+16731314,Roberto,Bueno Díaz,"None",M,2500.00,Administración General
+15471879,Claudia,Fernández Flores,394330623,F,1738.00,Compras
+32661898,JAIME,MANAY TEZEN,977059430,M,4050.00,Logística
+24254017,Ana,Sánchez Chávez,933381737,F,878.00,Tecnologías de la Información (TI)
+86723005,Jorge,López Flores,430813794,M,2311.00,Marketing
+15497497,María,Fernández Suárez,283796087,F,4144.00,Responsabilidad Social Corporativa
+83023051,Manuel,Cruz Mendoza,179305059,M,1709.00,Recursos Humanos
+58091012,Claudia,Cruz Morales,764124096,F,563.00,Investigación y Desarrollo (I+D)
+81557897,LORENA,Hernandez Cruz,977971152,F,3647.00,Atención al Cliente
+66761325,José,Ramírez Ramos,583983368,M,3938.00,Ventas
+31905335,JOSE ANTONIO,Salguera Mendieta,977310784,M,2988.00,Tecnologías de la Información (TI)
+28065021,MARIA JESUS,Anacleto Silva,976929128,F,2670.00,Producción
+30314715,David,Corado Andrade,979573229,M,3379.00,Producción
+92097376,José,Rodríguez Ortiz,112735849,M,4345.00,Compras
+23035685,Isabel,Martínez Suárez,988676357,F,1091.00,Atención al Cliente
+61996611,GONZALO,Vásquez Carlos,978734385,M,1209.00,Recursos Humanos
+46405641,Francisco,Martínez Chávez,109395553,M,1792.00,Calidad
+59478402,Isabel,García Flores,694541379,F,1704.00,Dirección Estratégica
+20474213,DAVID,Galarreta Atoche,977102756,M,2833.00,Compras
+15775642,Juan,Pescorán Carrión,"None",M,2520.00,Logística
+75593916,VICTOR,ROSARIO SUCLUPE,978707433,M,2111.00,Tecnologías de la Información (TI)
+88291466,Patricia,López Castillo,124045638,F,3956.00,Legal
+84326563,Francisco,Fernández Morales,796302826,M,1869.00,Administración General
+36030007,Laura,Martínez Castillo,184226661,F,1526.00,Comunicación Corporativa
+61965914,Gabriela,Cruz Ortiz,806216601,F,1091.00,Mantenimiento
+17823624,Ana Maria,Buendía Montenegro,"None",F,2900.00,Dirección Estratégica
+88040516,Lucía,González Chávez,836822456,F,4465.00,Ventas
+78867763,ISMAEL,Nuñez cruz,978921570,M,3767.00,Investigación y Desarrollo (I+D)
+89487713,Gabriela,Rodríguez Flores,520845304,F,3154.00,Recursos Humanos
+13444401,CESAR,Montero Carpio,977612990,M,1601.00,Administración General
+53391772,JOAN,Calambas Vivas,978214297,M,4050.00,Producción
+13372815,Miguel,Martínez Suárez,741502041,M,1858.00,Mantenimiento
+51555847,Nicolás,Ginga Bungo,976092896,M,2991.00,Tecnologías de la Información (TI)
+26078896,AGUSTIN,Celon vazquez,975802556,M,2424.00,Recursos Humanos
+15246980,Carlos,Palacios Sipión,"None",M,1800.00,Logística
+12500162,Sofía,Cruz Ramos,304752057,F,3371.00,Seguridad y Salud Ocupacional
+93144484,Ana,López Ramos,180495724,F,1074.00,Contabilidad
+97749810,Isabel,Martínez Gómez,156333082,F,1571.00,Desarrollo de Producto
+53108101,FERNANDO,Tejada ballena,976160414,M,3447.00,Dirección Estratégica
+47474006,MIRIAM,Osorto Mendez,975888023,F,1698.00,Recursos Humanos
+14284073,Ramiro,Pedrasa Rios,"None",M,5000.00,Logística
+55980504,Patricia,López Mendoza,454945606,F,881.00,Logística
+17745450,MARIA LUISA,Bardales Siesquen,979156385,F,4509.00,Desarrollo de Producto
+47656583,Izan,Tapias Baena,976085113,M,3717.00,Contabilidad
+78701855,Sofía,Rodríguez Castillo,271218535,F,3444.00,Seguridad y Salud Ocupacional
+35081917,Gabriela,Fernández Gómez,534895484,F,3072.00,Estrategia y Planificación
+18915406,Rosa,Bances Rodríguez,"None",F,2600.00,Dirección Estratégica
+31016772,Lucía,Cruz Castillo,351097164,F,2015.00,Calidad
+23418404,Imran,Puelles Lora,979422424,M,1464.00,Investigación y Desarrollo (I+D)
+62364402,DIEGO,Valdez Rivas,979636297,M,1427.00,Calidad
+79999928,Manuel,Ramírez Flores,488822710,M,438.00,Marketing
+58824371,MERCEDES,CASTILLO HERRERA,977616212,F,4697.00,Calidad
+56670743,JULIA,Ticona Tapia,977744827,F,2100.00,Investigación y Desarrollo (I+D)
+23093480,Miguel,Cruz Morales,684998324,M,3247.00,Seguridad y Salud Ocupacional
+72431847,Patricia,Sánchez Mendoza,982234389,F,4662.00,Comunicación Corporativa
+31183493,Claudia,González Flores,352301000,F,2195.00,Desarrollo de Producto
+71723400,Gabriela,López Morales,110896282,F,1541.00,Marketing
+96793252,Gabriela,Martínez Torres,279642343,F,3090.00,Administración General
+33685336,VICTOR,Noa Bautista,978955911,M,4668.00,Dirección Estratégica
+88926524,Carlos,Martínez Gómez,943178305,M,4667.00,Desarrollo de Producto
+27308223,SARA,Calopino Huaman,978468203,F,1821.00,Administración General
+26550056,Ana,García Suárez,110977181,F,430.00,Producción
+44103480,RUBEN,MERA RODAS,975581700,M,3050.00,Recursos Humanos
+75144470,Isabel,Pérez Chávez,667438147,F,1442.00,Seguridad y Salud Ocupacional
+41160162,LUIS,Flores Paredes,979156743,M,1506.00,Producción
+41842861,Sofía,Ramírez Castillo,630372842,F,5000.00,Producción
+27797150,Manuel,Sánchez Torres,551253790,M,1832.00,Seguridad y Salud Ocupacional
+59496319,José,Ramírez Gómez,589492718,M,578.00,Recursos Humanos
+60075668,Miguel,Fernández Torres,852822596,M,623.00,Calidad
+72645876,Sofía,López Flores,706747173,F,641.00,Responsabilidad Social Corporativa
+26459711,Pedro,Sánchez Gómez,389716418,M,4386.00,Ventas
+62261593,Manuel,Martínez Suárez,322784374,M,4037.00,Finanzas
+27466875,FERNANDO,Martinez Panta,977707466,M,4464.00,Ventas
+35951119,Laura,Cruz Mendoza,343282096,F,4247.00,Seguridad y Salud Ocupacional
+38194580,JOSEFA,LORA HERNANDEZ,976239193,F,5000.00,Producción
+54689626,Eric,Segundo Céspedes,976006394,M,4526.00,Tecnologías de la Información (TI)
+39908392,Fernando,Pérez Ramos,598649766,M,616.00,Seguridad y Salud Ocupacional
+63527924,Luca,Fonseca Castro,976542856,M,2083.00,Producción
+35856233,Lucía,Fernández Suárez,239784497,F,3092.00,Ventas
+30761235,José,DIAZ CABALLERO,979084790,M,3138.00,Finanzas
+16741443,ANDRES,Guevara barreto,979641297,M,4522.00,Contabilidad
+17712554,Isabel,Sánchez Mendoza,742347568,F,2893.00,Compras
+89062910,VICENTE,Willians Silverio,979735787,M,3019.00,Producción
+36699528,Iván,GONZALEZ DIAZ,975879936,M,1306.00,Estrategia y Planificación
+60332563,ANTONIO,sandoval araujo,975807644,M,3373.00,Recursos Humanos
+99842682,Ismael,Maya Gutiérrez,976619287,M,1521.00,Compras
+919842472,Manuel,García Mendoza,469193006,M,3618.00,Tecnologías de la Información (TI)
+79041758,María,Fernández Flores,709907739,F,5000.00,Desarrollo de Producto
+31884975,Fernando,López Flores,345513828,M,509.00,Tecnologías de la Información (TI)
+68543937,Isabel,Martínez Mendoza,540803478,F,1163.00,Administración General
+84383010,Francisco,Rodríguez Suárez,328953420,M,1210.00,Administración General
+78274570,Pedro,González Ortiz,364109807,M,1890.00,Recursos Humanos
+26341565,Jorge,González Suárez,466869808,M,2328.00,Desarrollo de Producto
+15030651,Miguel,García Morales,890153141,M,3808.00,Comunicación Corporativa
+36008706,Luis,Rodríguez Flores,201443728,M,3276.00,Responsabilidad Social Corporativa
+60577183,Isabel,López Morales,592999517,F,2238.00,Mantenimiento
+64064328,Nil,Silva Freitas,978496040,M,5000.00,Ventas
+16737339,HECTOR,Mejia Cortez,977905864,M,1366.00,Investigación y Desarrollo (I+D)
+78300852,ELENA,ZULUAGA HERRERA,977995782,F,2330.00,Tecnologías de la Información (TI)
+75032529,Francisco,Sánchez Ortiz,654654649,M,3886.00,Seguridad y Salud Ocupacional
+70703773,Luis,Rodríguez Chávez,912442469,M,4040.00,Finanzas
+10690367,CAROLINA,Conde Coronel,978976602,F,2964.00,Administración General
+10002473,SANDRA,Torres Vásquez,978431577,F,2306.00,Marketing
+12920207,Francisco,Rodríguez Torres,390111839,M,1680.00,Marketing
+74080489,Gabriela,López Castillo,335549883,F,3609.00,Mantenimiento
+65694774,Gabriela,Sánchez Castillo,432142849,F,2618.00,Marketing
+90132111,ALVARO,Galán Bernal,975710820,M,4132.00,Compras
+89008573,AGUSTIN,ESPINOZA CARMEN,977879057,M,2914.00,Logística
+44924535,Jorge,Sánchez Flores,420669527,M,4555.00,Seguridad y Salud Ocupacional
+15982282,José,García Chávez,580276019,M,5000.00,Comunicación Corporativa
+99362023,ALFREDO,Simbala Cruz,977831043,M,2324.00,Recursos Humanos
+96229484,Jorge,Ramírez Suárez,524205188,M,3981.00,Marketing
+53407497,Jorge,López Morales,955978011,M,4551.00,Compras
+97312356,Sofía,González Torres,132414811,F,1032.00,Tecnologías de la Información (TI)
+71188159,Lucía,Fernández Ramos,975188159,F,3514.00,Recursos Humanos
+85599088,NATALIA,Chávez Victoriano,977704865,F,1742.00,Producción
+89731050,LUCIA,Llamo Rojas,979839343,F,2482.00,Finanzas
+70135457,Sofía,López Ramos,327750603,F,2290.00,Legal
+85229193,Isabel,Rodríguez Mendoza,248175328,F,3953.00,Producción
+82850529,Ana,Sánchez Morales,337291394,F,1133.00,Seguridad y Salud Ocupacional
+54796040,LOURDES,Henao Martinez,977682088,F,4444.00,Investigación y Desarrollo (I+D)
+67419956,Juan,Rodríguez Morales,238498668,M,403.00,Seguridad y Salud Ocupacional
+50161226,Luis,Rodríguez Ramos,861749576,M,2492.00,Marketing
+78635536,José,Martínez Castillo,520544073,M,2758.00,Producción
+20929561,Juan,González Gómez,102965078,M,4368.00,Dirección Estratégica
+76920444,Carmen,Pérez Flores,399232893,F,5000.00,Finanzas
+12062465,AITOR,Villegas Cubas,976832756,M,3473.00,Atención al Cliente
+43053958,Laura,González Torres,797413585,F,599.00,Dirección Estratégica
+36852483,Miguel,Rodríguez Suárez,132608045,M,1226.00,Producción
+33516044,Carmen,López Suárez,570763752,F,1962.00,Tecnologías de la Información (TI)
+39205839,Francisco,López Castillo,890219874,M,4686.00,Desarrollo de Producto
+99327623,CONCEPCION,Clavo Tafur,976844698,F,4318.00,Ventas
+88807209,Ana,Sánchez Ortiz,152412772,F,1082.00,Recursos Humanos
+37495924,Jorge,García Mendoza,272129543,M,2113.00,Desarrollo de Producto
+89322828,Lucía,Cruz Ortiz,559327115,F,1100.00,Comunicación Corporativa
+33725970,NICOLAS,Arnao Vásquez,977951235,M,4462.00,Atención al Cliente
+43073952,Luis,López Castillo,638060696,M,1176.00,Legal
+26430892,CONSUELO,Ríos Méndez,979324389,F,1448.00,Compras
+39328928,Jorge,Sánchez Suárez,746195799,M,2195.00,Dirección Estratégica
+56063213,CLAUDIA,Bances Vidaurre,978373504,F,5000.00,Calidad
+33217556,Gabriela,Martínez Mendoza,500560365,F,4265.00,Recursos Humanos
+34090451,Teo,Aguayo Lopez,977633584,M,2071.00,Tecnologías de la Información (TI)
+34090451,Teo,Aguayo Lopez,977633584,M,2071.00,Tecnologías de la Información (TI)
+38274426,Francisco,González Gómez,228074564,M,1469.00,Comunicación Corporativa
+21043086,ROBERTO,Cordova taipe,975572536,M,2415.00,Dirección Estratégica
+58959886,Manuel,Fernández Mendoza,366374786,M,3843.00,Legal
+17468361,SAMUEL,Gonzalez Corrales,977372213,M,1651.00,Producción
+32018168,Francisco,Pérez Chávez,514762197,M,1335.00,Atención al Cliente
+10414848,CAROLINA,GUTIERREZ MAGAN,979957269,F,4169.00,Dirección Estratégica
+332955698,Patricia,González Torres,310231078,F,2358.00,Calidad
+76090948,Fernando,Rodríguez Gómez,107750202,M,5000.00,Responsabilidad Social Corporativa
+68010570,Luis,MESQUITA DUARTE,975715115,M,2155.00,Legal
+66879627,Carmen,Pérez Torres,246270401,F,1910.00,Contabilidad
+68028602,Jorge,Sánchez Morales,101664155,M,3743.00,Investigación y Desarrollo (I+D)
+75362720,Juan,Martínez Morales,296047879,M,3860.00,Comunicación Corporativa
+89255930,Juan,Fernández Ortiz,128775786,M,545.00,Investigación y Desarrollo (I+D)
+16992499,ALBERTO,Garcia Pasapera,978261952,M,3022.00,Desarrollo de Producto
+46156921,María,Martínez Castillo,585411000,F,4010.00,Desarrollo de Producto
+25621184,ANGEL,VILCHEZ ARTEAGA,978936617,M,1993.00,Recursos Humanos
+23868597,Jorge,López Morales,695450806,M,2277.00,Tecnologías de la Información (TI)
+56105260,Juan,Sánchez Gómez,278026520,M,4670.00,Tecnologías de la Información (TI)
+75277006,SOFIA,Mejia Luna,977445071,F,3760.00,Marketing
+30411680,Lucía,Ramírez Suárez,999563007,F,4340.00,Compras
+74324455,Francisco,Ramírez Torres,905456712,M,605.00,Desarrollo de Producto
+62228536,Jaime,Estrella Collantes,976688840,M,1877.00,Administración General
+36898710,Adam,Ñiquen Chafloque,978678145,M,1217.00,Producción
+14489806,María,Pérez Morales,642075578,F,1353.00,Compras
+38307138,Claudia,Martínez Ramos,557713269,F,2433.00,Producción
+10957830,Juan,Sánchez Suárez,493723707,M,935.00,Producción
+73544840,Fernando,Rodríguez Chávez,730583944,M,2691.00,Administración General
+12634670,Laura,González Flores,483907600,F,3254.00,Comunicación Corporativa
+49677757,Manuel,Fernández Ramos,836474925,M,3779.00,Estrategia y Planificación
+24504873,FRANCISCO,Campos Martínez,976688304,M,1502.00,Investigación y Desarrollo (I+D)
+67946302,María,García Castillo,211271679,F,1503.00,Dirección Estratégica
+32626386,Juan,Ramírez Castillo,347686182,M,2083.00,Responsabilidad Social Corporativa
+31620991,Lucía,López Suárez,106845767,F,5000.00,Seguridad y Salud Ocupacional
+52582990,Miguel,Cruz Ortiz,546398728,M,3053.00,Calidad
+91310494,Sofía,Sánchez Ortiz,420977225,F,5000.00,Recursos Humanos
+25074783,Ana,Fernández Morales,427034402,F,2788.00,Marketing
+38798214,ANGELA,Puican Velásquez,979182990,F,4114.00,Investigación y Desarrollo (I+D)
+33272028,Gabriela,López Mendoza,251375885,F,4311.00,Seguridad y Salud Ocupacional
+95704470,Jorge,Pérez Gómez,716777485,M,1003.00,Responsabilidad Social Corporativa
+37124954,Pedro,Fernández Mendoza,336339972,M,3951.00,Logística
+88417566,RAQUEL,Arana Huertas,977573279,F,3046.00,Recursos Humanos
+20075956,Carmen,Pérez Morales,737852850,F,4039.00,Desarrollo de Producto
+82579908,Luis,Fernández Torres,883839471,M,4444.00,Logística
+45540504,Ana,Fernández Ramos,320429832,F,1134.00,Mantenimiento
+63653598,María,Fernández Gómez,981546381,F,1194.00,Producción
+43041477,Miguel,Pérez Gómez,479655649,M,2908.00,Finanzas
+10333020,YOLANDA,GASTELO VIDARTE,976746769,F,3570.00,Atención al Cliente
+14071687,José,González Flores,331077609,M,4024.00,Calidad
+62387137,Ana,Sánchez Mendoza,125485558,F,3644.00,Contabilidad
+24379484,MARIA JOSE,Asenjo saavedra,978706786,F,2234.00,Compras
+97246309,Francisco,González Castillo,621267651,M,5000.00,Ventas
+99683488,Patricia,Sánchez Castillo,125631882,F,4697.00,Mantenimiento
+99306269,Pedro,Cruz Ortiz,708546570,M,5000.00,Recursos Humanos
+21775873,Patricia,González Torres,340139209,F,2830.00,Calidad
+20031022,Juan,Fernández Ramos,315960488,M,3896.00,Seguridad y Salud Ocupacional
+722880002,JOSE MIGUEL,Olazabal Valera,976473016,M,1266.00,Producción
+30775922,MARGARITA,GARCIA LUNA,978948613,F,2208.00,Marketing
+29818851,Gabriela,Sánchez Ortiz,878060038,F,1084.00,Ventas
+81959393,Juan,González Mendoza,294492044,M,472.00,Dirección Estratégica
+55800867,Andrés,Amador gutierrez,978567959,M,3135.00,Calidad
+86242992,Juan,Fernández Castillo,418130176,M,3003.00,Contabilidad
+58850087,JOAQUIN,Troche Sucojayo,978752409,M,1273.00,Dirección Estratégica
+85010942,Juan,González Torres,510162755,M,3416.00,Calidad
+92472299,PEDRO,Muñoz Muñoz,975911840,M,1659.00,Contabilidad
+58276770,Sofía,Fernández Gómez,396216434,F,2071.00,Mantenimiento
+68759353,PATRICIA,MENDOZA HUILCAREMA,979529913,F,2752.00,Ventas
+33341114,Laura,Ramírez Chávez,782625989,F,2044.00,Mantenimiento
+47047685,Juan,Ramírez Castillo,828049140,M,3870.00,Legal
+54573051,Gabriela,Ramírez Flores,228165035,F,1220.00,Mantenimiento
+95977841,Carlos,Rodríguez Ramos,288704192,M,1385.00,Marketing
+71264209,FRANCISCA,Quitama herrera,978848349,F,1577.00,Ventas
+17098222,Jorge,López Suárez,526861005,M,834.00,Logística
+12817623,Gabriela,Sánchez Torres,685130033,F,3882.00,Atención al Cliente
+22289426,Luis,Pérez Ramos,309630905,M,3268.00,Compras
+49072594,BLANCA,SABRERA MELGAREJO,979829679,F,1922.00,Recursos Humanos
+70805247,Laura,López Suárez,216467611,F,4641.00,Logística
+32770096,Juan,García Chávez,261687084,M,461.00,Atención al Cliente
+46278609,AINHOA,Trujillo Nativiidad,978922381,F,4693.00,Atención al Cliente
+94088008,IKER,PUESCAS FIESTAS,979920810,M,2977.00,Compras
+79071901,Fernando,López Torres,945811882,M,4310.00,Responsabilidad Social Corporativa
+36121469,José,Ramírez Chávez,667436538,M,4227.00,Legal
+35822335,José,López Ramos,454479777,M,1024.00,Contabilidad
+34721447,Lucía,Pérez Flores,382434947,F,5000.00,Contabilidad
+58006663,Carlos,Sánchez Suárez,215583505,M,1662.00,Compras
+44670730,LUCIA,Medina Herrera,975612660,F,3783.00,Administración General
+49114032,Ander,ROMERO HERRERA,979645895,M,1665.00,Marketing
+39539205,Daniel,Mercedes Acuña,979023924,M,3297.00,Marketing
+88790137,Carmen,García Ortiz,661367118,F,2854.00,Comunicación Corporativa
+67465441,Francisco,Pérez Ramos,958324552,M,1481.00,Marketing
+75667922,Luis,Martínez Gómez,114530450,M,5000.00,Contabilidad
+10713741,Fernando,Fernández Castillo,809072653,M,4223.00,Producción
+86105866,Carmen,Sánchez Suárez,947953967,F,4622.00,Atención al Cliente
+79128809,LUCAS,Zacarias vega,979956868,M,2164.00,Recursos Humanos
+69225845,Manuel,Martínez Castillo,512337536,M,2304.00,Ventas
+36924222,Robinson,Requena Perales,"None",M,3687.00,Administración General
+75260171,FRANCISCA,ALVARADO SALAZAR,977557200,F,3635.00,Compras
+36602227,Alberto,Damian Luis,"None",M,1400.00,Investigación y Desarrollo (I+D)
+36924322,Heiner,Rios David,"None",M,2500.00,Logística
+36590227,Cesar,Dante Arroyo,"None",M,560.00,Investigación y Desarrollo (I+D)
+10578686,Francisco,Fernández Gómez,251699823,M,1701.00,Atención al Cliente
+17984948,Juan,Ramírez Chávez,794650146,M,2896.00,Calidad
+56758910,Sofía,López Flores,840477708,F,963.00,Seguridad y Salud Ocupacional
+21510385,Fernando,López Ortiz,633923619,M,1670.00,Atención al Cliente
+36721026,Maria,Davila Colunche,"None",F,600.00,Administración General
+72468558,Carmen,Sánchez Chávez,316037060,F,2167.00,Legal
+35270961,Isabel,López Flores,723410233,F,3832.00,Administración General
+29596102,ANDREA,landivar justiniano,977996779,F,2478.00,Estrategia y Planificación
+43572260,Laura,González Morales,776196155,F,1337.00,Tecnologías de la Información (TI)
+46904870,Ana,Rodríguez Suárez,107937215,F,1202.00,Desarrollo de Producto
+82588964,SUSANA,Palomino Vega,976820297,F,1349.00,Administración General
+39416510,Ana,Pérez Morales,651523563,F,5000.00,Estrategia y Planificación
+14681820,LUZ,Aguilar Martínez,976652320,F,3240.00,Contabilidad
+89948891,SONIA,Gallardo Vásquez,975962649,F,2551.00,Contabilidad
+36710225,Carlos,Diaz Diaz,"None",M,4700.00,Investigación y Desarrollo (I+D)
+75132663,Aarón,Choque Condori,976346699,M,1291.00,Contabilidad
+36924127,Javier,Ramirez Cordova,"None",M,2500.00,Dirección Estratégica
+94837106,SONIA,Medina Luna,977439421,F,2904.00,Administración General
+36360227,Ivan,Dueñas Adrinazen,"None",M,1000.00,Investigación y Desarrollo (I+D)
+57826142,Gabriela,Ramírez Chávez,587567983,F,871.00,Marketing
+21049432,MONICA,Bacilio Vasquez,975959313,F,3075.00,Tecnologías de la Información (TI)
+56486905,SUSANA,Blum Luna,975875897,F,4560.00,Desarrollo de Producto
+83002532,Juan,Ramírez Suárez,610391492,M,1355.00,Dirección Estratégica
+14168519,ELISA,RUANO NARVAEZ,975919182,F,1802.00,Legal
+95074535,María,Rodríguez Castillo,678443040,F,529.00,Comunicación Corporativa
+53945312,Carlos,Rodríguez Morales,954854909,M,2081.00,Calidad
+95918909,Laura,Rodríguez Mendoza,377349988,F,2305.00,Estrategia y Planificación
+51580009,Patricia,Martínez Mendoza,139400022,F,3194.00,Desarrollo de Producto
+94551217,Joel,ARAYA FREDES,978042946,M,3915.00,Calidad
+70155390,Gabriela,Fernández Ortiz,285507711,F,1936.00,Marketing
+72578233,Carmen,Martínez Castillo,443555496,F,2092.00,Responsabilidad Social Corporativa
+73665881,Francisco,Fernández Torres,166652182,M,3812.00,Recursos Humanos
+99901862,Carmen,García Torres,330671319,F,2877.00,Marketing
+78393092,RAUL,Maldonado Rivera,975831307,M,2621.00,Estrategia y Planificación
+28093761,Gabriela,Fernández Flores,856052039,F,1179.00,Contabilidad
+35040912,VALERIA,Alba Osorio,976102391,F,1207.00,Ventas
+19415667,ANNA,GALARZA MONTOYA,976465033,F,4231.00,Legal
+71749357,Patricia,Rodríguez Mendoza,894978296,F,3552.00,Calidad
+49622991,Carlos,Martínez Flores,838638961,M,2187.00,Comunicación Corporativa
+69569376,Luis,López Flores,191092016,M,3126.00,Atención al Cliente
+69905871,JORDI,Arteaga Carhua,975746441,M,3267.00,Marketing
+66837602,Marc,Santos Bertoldo,978221188,M,4429.00,Atención al Cliente
+89626523,DOLORES,carrion salvador,976054986,F,1974.00,Logística
+62015478,Ian,polanco colon,976725325,M,1212.00,Investigación y Desarrollo (I+D)
+15080596,Laura,Sánchez Chávez,272148319,F,2827.00,Atención al Cliente
+83558097,DOMINGO,Rivera Alonzo,979815447,M,3439.00,Finanzas
+40664788,Oliver,silva andrade,979874498,M,3762.00,Desarrollo de Producto
+90141779,Francisco,García Torres,747192692,M,2866.00,Atención al Cliente
+36924422,Wilmer,Ruperta Celis,"None",M,2000.00,Administración General
+58797375,GUILLERMO,perez campos,977937868,M,2474.00,Atención al Cliente
+25410561,NOELIA,Ibieta Martinez,978974252,F,2793.00,Contabilidad
+44258261,María,Sánchez Castillo,449675629,F,2067.00,Responsabilidad Social Corporativa
+45038320,Jan,Avendaño Fuentes,977186996,M,1935.00,Investigación y Desarrollo (I+D)
+56115376,Carmen,Rodríguez Ramos,714119722,F,807.00,Recursos Humanos
+78700447,RICARDO,CARRILLO CAJO,977045413,M,3467.00,Estrategia y Planificación
+13397622,Francisco,García Suárez,427263575,M,1609.00,Investigación y Desarrollo (I+D)
+12832323,Miguel,Pérez Ortiz,419242017,M,5000.00,Responsabilidad Social Corporativa
+18610473,Marco,CARREÑO ARCE,979819365,M,3179.00,Estrategia y Planificación
+87126886,María,Rodríguez Torres,815941825,F,3910.00,Investigación y Desarrollo (I+D)
+64016964,NEREA,Romero Coronado,976828840,F,4377.00,Desarrollo de Producto
+59786747,Laura,López Mendoza,529289835,F,428.00,Mantenimiento
+13111200,Lucía,Sánchez Castillo,640476537,F,1386.00,Administración General
+54899906,Pedro,Ramírez Flores,638623995,M,1215.00,Producción
+93006367,Patricia,Cruz Chávez,567189708,F,2225.00,Estrategia y Planificación
+12341256,Federico,Vizcarra Gonzales,976343648,M,4000.00,Investigación y Desarrollo (I+D)
+42336190,Sofía,Cruz Flores,508512742,F,2455.00,Producción
+63503290,Gabriela,Fernández Morales,271280049,F,4061.00,Seguridad y Salud Ocupacional
+65767187,MARIA CRISTINA,Rosero Gutierrez,978114965,F,1488.00,Desarrollo de Producto
+77585990,Isabel,Fernández Chávez,682567309,F,2468.00,Investigación y Desarrollo (I+D)
+88180056,Carmen,García Morales,691496983,F,1508.00,Administración General
+87066789,Lucía,Pérez Chávez,320710507,F,1619.00,Atención al Cliente
+73804510,Ana,Sánchez Torres,623230557,F,4196.00,Finanzas
+36480227,Oscar,Diez Yovera,"None",M,4000.00,Investigación y Desarrollo (I+D)
+55383708,CLAUDIA,Mayen Luna,977959188,F,3610.00,Ventas
+34440185,MARIA JOSEFA,Coronado Vidaurre,976859060,F,2453.00,Logística
+25847520,OSCAR,GUEVARA BRAVO,975830758,M,3569.00,Legal
+93611550,Jorge,García Torres,430847627,M,5000.00,Finanzas
+92492281,Jorge,Sánchez Flores,815747236,M,669.00,Calidad
+81836966,María,Rodríguez Ortiz,792824183,F,2580.00,Atención al Cliente
+88958608,Lucía,López Gómez,790138884,F,2974.00,Investigación y Desarrollo (I+D)
+97545100,Fernando,Ramírez Torres,962372465,M,1129.00,Logística
+54301703,Pedro,Martínez Mendoza,849492061,M,4135.00,Investigación y Desarrollo (I+D)
+45652684,Isabel,Sánchez Torres,938692855,F,1666.00,Logística
+36924722,Erika,Rico Villena,"None",F,5000.00,Administración General
+35813781,ANDRES,Narváez Serrano,976235843,M,2682.00,Administración General
+79956324,Juan,Alvarado Bravo,976740497,M,2691.00,Marketing
+48408109,María,Rodríguez Ortiz,849245685,F,1953.00,Mantenimiento
+36924822,Robert,Roque Monsalve,"None",M,3600.00,Investigación y Desarrollo (I+D)
+25617582,Francisco,García Ramos,986146631,M,4455.00,Marketing
+11849236,MARTIN,Chanduví Calderón,979952553,M,2718.00,Logística
+57173001,Diego,Doria Andrade,976817848,M,3504.00,Finanzas
+59785164,Claudia,Martínez Suárez,445964381,F,659.00,Compras
+30385740,Patricia,Pérez Morales,619610297,F,3777.00,Producción
+70909113,OLGA,PORTILLO MELGAREJO,979968355,F,2742.00,Estrategia y Planificación
+68479573,Lucía,Rodríguez Suárez,306967253,F,529.00,Ventas
+58131417,Jorge,Martínez Torres,177851039,M,4113.00,Producción
+25612578,Carlos,Cruz Gómez,890674472,M,5000.00,Desarrollo de Producto
+11715011,Miguel,Martínez Mendoza,891052254,M,4678.00,Investigación y Desarrollo (I+D)
+36713127,Dennis,Romero Julio,"None",M,5000.00,Investigación y Desarrollo (I+D)
+52759530,JAIME,Sánchez Cachay,976849809,M,3439.00,Atención al Cliente
+34194183,Isabel,González Gómez,158029246,F,3528.00,Comunicación Corporativa
+41545045,Ana,López Gómez,606798697,F,2396.00,Finanzas
+36470227,Jose,Deza Manay,"None",M,2000.00,Investigación y Desarrollo (I+D)
+46877138,JUAN,Díaz Medel,979861040,M,3020.00,Tecnologías de la Información (TI)
+30034213,Carlos,García Suárez,866965538,M,492.00,Marketing
+24607516,Patricia,García Torres,578409569,F,4199.00,Responsabilidad Social Corporativa
+85915678,Manuel,Pérez Morales,425816047,M,5000.00,Responsabilidad Social Corporativa
+75454682,Patricia,López Ramos,618775937,F,3665.00,Dirección Estratégica
+52529311,ALBA,POLO LARA,976748850,F,2107.00,Contabilidad
+30942572,Jorge,Pérez Gómez,124383623,M,4806.00,Logística
+36924222,Robinson,Requena Perales,"None",M,3687.00,Administración General
+19929288,Carlos,Fernández Mendoza,747029149,M,771.00,Desarrollo de Producto
+55820640,MIGUEL,Yucra Meza,977736680,M,1223.00,Producción
+58675687,Claudia,Pérez Gómez,843256710,F,3029.00,Estrategia y Planificación
+55836821,Claudia,Fernández Gómez,122367219,F,697.00,Administración General
+96854550,José,García Chávez,506551870,M,4326.00,Finanzas
+530786408,Fernando,Ramírez Mendoza,141511933,M,969.00,Legal
+71562877,Laura,Rodríguez Castillo,252466266,F,3032.00,Tecnologías de la Información (TI)
+62525699,DOMINGO,SANTA CRUZ,978639501,M,5000.00,Desarrollo de Producto
+36340228,Maria,Dejo Medina,"None",F,800.00,Administración General
+30288855,CARLA,Pérez Vigil,977571633,F,3524.00,Ventas
+24973062,Laura,Sánchez Ramos,518459140,F,1992.00,Marketing
+73121328,Gabriela,González Flores,802192617,F,3136.00,Tecnologías de la Información (TI)
+50774319,Pedro,Ramírez Morales,276855358,M,1029.00,Legal
+52465651,Carmen,Martínez Castillo,155010883,F,4598.00,Compras
+22781727,Isabel,Fernández Morales,694480725,F,1805.00,Atención al Cliente
+60048778,Miguel,Ramírez Morales,299122638,M,3246.00,Desarrollo de Producto
+37319593,ANA BELEN,Calderón Cuéllar,976075852,F,1801.00,Calidad
+40375929,Marcos,Herrera Antaya,976684356,M,3290.00,Investigación y Desarrollo (I+D)
+91923987,LAURA,Vargas Herrera,975839384,F,5000.00,Compras
+56145381,JUAN,Valiente Arce,977951600,M,3989.00,Marketing
+70908557,María,Martínez Chávez,951082128,F,3084.00,Contabilidad
+52035156,Jorge,García Suárez,329034242,M,3242.00,Compras
+29054829,Gael,Espinoza Becerra,976130139,M,3489.00,Compras
+76120534,Miguel,Cruz Suárez,388049672,M,3162.00,Compras
+59766879,Carmen,Rodríguez Gómez,378897565,F,636.00,Desarrollo de Producto
+36924922,Yoel,Riccio Monteza,"None",M,4600.00,Dirección Estratégica
+36924522,Manuel,Rivera Carrión,"None",M,2800.00,Dirección Estratégica
+75516287,Juan,González Gómez,692662793,M,1927.00,Seguridad y Salud Ocupacional
+88730837,Ana,García Mendoza,684278111,F,1644.00,Atención al Cliente
+26002686,Juan,García Torres,107951767,M,4310.00,Ventas
+36924622,Ronald,Requejo Gonzalez,"None",M,2700.00,Administración General
+93358362,ROSA,BELLO VIDAL,977308761,F,5000.00,Contabilidad
+74044081,Patricia,López Ortiz,269663889,F,1259.00,Tecnologías de la Información (TI)
+72335486,Francisco,Pech Chan,977480513,M,4032.00,Contabilidad
+66623422,MARIANO,Solano Alburqueque,979421229,M,4685.00,Contabilidad
+62823944,Raúl,Regalado Fuster,978789475,M,2075.00,Administración General
+29770539,LUIS,Flores Arrasco,979862680,M,4615.00,Atención al Cliente
+87346059,Sofía,Fernández Castillo,105249221,F,1359.00,Desarrollo de Producto
+79176259,Laura,Fernández Castillo,944385735,F,3736.00,Producción
+79909629,Ana,López Ortiz,615076166,F,4376.00,Atención al Cliente
+49814543,María,Rodríguez Ramos,336244851,F,3388.00,Mantenimiento
+60716260,RODRIGO,Manuel Alejandro,978562654,M,2575.00,Estrategia y Planificación
+84134360,María,Ramírez Flores,671119417,F,511.00,Compras
+39664279,Juan,González Mendoza,148179701,M,4362.00,Tecnologías de la Información (TI)
+35062524,Isabel,Sánchez Ortiz,936973963,F,3010.00,Ventas
+66702410,Sofía,Martínez Flores,538721255,F,2640.00,Finanzas
+88390711,Miguel,Sánchez Suárez,228648989,M,4106.00,Producción
+13869349,Gabriela,Martínez Gómez,931327127,F,4095.00,Dirección Estratégica
+33372374,MARIA ROSA,Torres Cuenca,977911508,F,3364.00,Atención al Cliente
+29136726,Ana,Fernández Castillo,805248609,F,2637.00,Finanzas
+49008688,IVAN,huidobro braco,976423306,M,1344.00,Desarrollo de Producto
+36350229,Diana,Delgado Monja,"None",F,600.00,Dirección Estratégica
+80977803,DOLORES,Domínguez Hernández,977214165,F,4396.00,Calidad
+36330227,Javier,Divos Moreno,"None",M,700.00,Investigación y Desarrollo (I+D)
+47477120,Isabel,García Ramos,552765295,F,2156.00,Comunicación Corporativa
+62515875,José,González Ramos,143761696,M,4221.00,Ventas
+47960040,Francisco,Fernández Mendoza,775076056,M,3928.00,Contabilidad
+33761226,Ana,González Ortiz,552379893,F,3348.00,Comunicación Corporativa
+15265591,MARIA,Rodriguez Hernandez,975905913,F,1644.00,Producción
+96711177,MARIA MAR,Alarcón Vásquez,978354797,F,3866.00,Ventas
+80708096,MARIA DOLORES,los Angeles,979113787,F,3974.00,Logística
+46535356,Enrique,Sipion Villarreal,"None",M,900.00,Logística
+73931168,MANUEL,Herrera martinez,977081572,M,5000.00,Estrategia y Planificación
+19016752,Isabel,García Gómez,552180184,F,3378.00,Responsabilidad Social Corporativa
+47865566,Yvan,Erla Adrianzen,"None",M,900.00,Dirección Estratégica
+45695656,Erika,Santamaria Villena,"None",F,5000.00,Administración General
+40369541,Cesar,Elio Arroyo,"None",M,1650.00,Logística
+63205420,Sofía,Rodríguez Ramos,236415615,F,573.00,Contabilidad
+22513477,JAVIER,FARRO MEDINA,975973720,M,2017.00,Compras
+46165146,JOSE,Takury Apagueño,979515470,M,2075.00,Estrategia y Planificación
+8795441696,Sofía,Fernández Castillo,571709549,F,2306.00,Dirección Estratégica
+28712961,Fernando,González Ortiz,522292594,M,3748.00,Contabilidad
+35456232,Isabel,González Ramos,903793920,F,1623.00,Marketing
+25449603,Isabel,Pérez Flores,171338322,F,3691.00,Seguridad y Salud Ocupacional
+54122374,Francisco,López Gómez,421304188,M,1147.00,Calidad
+42366984,Manuel,Efio Colunche,"None",M,3000.00,Dirección Estratégica
+37476623,Gabriela,Fernández Morales,237594555,F,3767.00,Producción
+93524778,PILAR,Gordillo Hernández,978132726,F,1380.00,Contabilidad
+78807972,Jorge,Sánchez Suárez,486215695,M,1965.00,Investigación y Desarrollo (I+D)
+96724756,Pedro,Fernández Torres,261729824,M,2245.00,Estrategia y Planificación
+20448396,Isabel,Fernández Ortiz,912676313,F,4213.00,Seguridad y Salud Ocupacional
+97460872,JOSEP,Burga Coronel,978946716,M,3085.00,Compras
+44359875,Carlos,Esteves Contreras,"None",M,1450.00,Investigación y Desarrollo (I+D)
+51637719,Patricia,Fernández Ortiz,435116562,F,3167.00,Tecnologías de la Información (TI)
+41265656,Jessica,Sánchez Fernandez,"None",F,4600.00,Dirección Estratégica
+40369845,Wilmer,Eustaquio Celis,"None",M,2560.00,Administración General
+41134361,Sofía,González Ortiz,565935461,F,5000.00,Marketing
+92608754,MIRIAM,Hernández Cruz,978659663,F,1673.00,Producción
+15087876,Saúl,Marquina Fernandez,979066911,M,3608.00,Estrategia y Planificación
+78016003,Juan,García Ramos,867674828,M,5000.00,Contabilidad
+77409668,INES,Pelaez Cruz,978342410,F,3556.00,Administración General
+44630793,Sofía,Rodríguez Suárez,917207904,F,474.00,Recursos Humanos
+40337624,Carmen,Cruz Ramos,898166780,F,1511.00,Atención al Cliente
+62187391,Carlos,Ramírez Suárez,119208775,M,5000.00,Mantenimiento
+26134509,José,Ramírez Chávez,415157643,M,4077.00,Responsabilidad Social Corporativa
+24043416,Patricia,García Ortiz,430624411,F,3805.00,Calidad
+95361012,Pedro,López Morales,150882255,M,4150.00,Atención al Cliente
+18953019,Gabriela,Rodríguez Gómez,111894825,F,2788.00,Dirección Estratégica
+22759983,Isabel,Martínez Ortiz,350858024,F,4073.00,Seguridad y Salud Ocupacional
+38534822,ALEJANDRA,Sequeira Fernández,977505281,F,1929.00,Investigación y Desarrollo (I+D)
+19820020,Francisco,Rodríguez Gómez,570882470,M,4408.00,Producción
+34198300,Miguel,López Ramos,407162575,M,3605.00,Desarrollo de Producto
+21447705,Erik,Zamudio Churampi,976918606,M,1295.00,Ventas
+46953232,Johana,Saavedra Chancafe,"None",F,3690.00,Dirección Estratégica
+13584788,María,Sánchez Flores,476994187,F,1336.00,Contabilidad
+25215281,Jesús,Racchumí Chicoma,977634151,M,3540.00,Administración General
+27100286,Francisco,Ramírez Mendoza,546196795,M,4529.00,Responsabilidad Social Corporativa
+28469534,Carlos,López Ramos,231888219,M,4037.00,Atención al Cliente
+34971760,Francisco,López Suárez,165709508,M,5000.00,Producción
+59150444,Sofía,López Gómez,638421665,F,4035.00,Administración General
+78720643,Miguel,Rodríguez Castillo,583410074,M,630.00,Mantenimiento
+16933973,Miguel,Fernández Torres,876791804,M,3677.00,Legal
+99946331,MARTA,Chinguel Rodriguez,975853288,F,1593.00,Compras
+91881284,María,Sánchez Chávez,583771276,F,4060.00,Dirección Estratégica
+99649067,Lucía,Martínez Flores,684439903,F,4247.00,Administración General
+91146082,María,Fernández Castillo,428243374,F,793.00,Administración General
+93139358,ARTURO,Acuña Guevara,975795583,M,2601.00,Administración General
+95627790,María,Martínez Mendoza,524765472,F,1934.00,Logística
+72746354,ANTONIA,Muro Salazar,979459857,F,1714.00,Atención al Cliente
+18070024,Sofía,Pérez Morales,690311492,F,3902.00,Seguridad y Salud Ocupacional
+67581573,Patricia,Martínez Castillo,770112332,F,4197.00,Producción
+84662908,ENRIQUE,CAMPOS BARRERA,978990199,M,3966.00,Legal
+45269525,Sara,Epifanio Albujar,"None",F,3850.00,Investigación y Desarrollo (I+D)
+38213565,CESAR,Guerrero Agurto,975581432,M,1910.00,Recursos Humanos
+56982701,Patricia,Rodríguez Mendoza,240349984,F,2524.00,Dirección Estratégica
+22864291,Alberto,Cruz Fernando,975969431,M,5000.00,Legal
+11928076,ROSA,Merchan Hernandez,976195401,F,2821.00,Marketing
+70313922,GABRIEL,Guevara Bustamante,979301821,M,4030.00,Legal
+41823627,Jorge,Fernández Ramos,359419276,M,1425.00,Legal
+77264315,CONCEPCION,Chávez Huamán,976126113,F,4175.00,Marketing
+71726724,Sofía,Rodríguez Castillo,303830146,F,1191.00,Logística
+45430837,Miguel,Sánchez Suárez,371138413,M,1298.00,Desarrollo de Producto
+15361653,Isabel,Fernández Chávez,927700874,F,3092.00,Comunicación Corporativa
+45346347,MARGARITA,Coronado Vidaurre,978734590,F,3273.00,Marketing
+92728573,María,Fernández Gómez,376219684,F,1792.00,Compras
+95952370,JOAN,RAMOS CORONADO,978006587,M,3773.00,Calidad
+73577924,MARIA PILAR,Espinoza Palomino,975708899,F,3303.00,Legal
+40332565,Luis,Sirlopu Quesquen,"None",M,2650.00,Administración General
+59262751,MATEO,Cubas Fernández,978816880,M,4093.00,Compras
+54607145,Luis,Sánchez Suárez,113846614,M,1178.00,Responsabilidad Social Corporativa
+73165482,Carmen,Sánchez Flores,883046355,F,3211.00,Ventas
+95434833,Carmen,García Chávez,847134743,F,3843.00,Legal
+90730229,Laura,Sánchez Suárez,623680955,F,589.00,Contabilidad
+99127743,Pedro,López Chávez,534058166,M,528.00,Marketing
+48952333,Ronald,Suarez Gonzalez,"None",M,1780.00,None
+97621771,SILVIA,Perez Tesen,975929525,F,1858.00,Investigación y Desarrollo (I+D)
+77590332,Sofía,Ramírez Flores,795543164,F,3553.00,Finanzas
+76893081,Ana,Ramírez Chávez,995128647,F,1623.00,Dirección Estratégica
+71147612,Pedro,Bravo Escobar,977315476,M,1357.00,Administración General
+58159021,José,Fernández Ortiz,690890873,M,2568.00,Producción
+90628220,TERESA,Lopez Vallejos,976000485,F,4679.00,Administración General
+37130743,Sofía,García Castillo,916943662,F,3042.00,Tecnologías de la Información (TI)
+27243890,Claudia,González Mendoza,934987384,F,3863.00,Responsabilidad Social Corporativa
+76157009,Isabel,García Mendoza,310105588,F,2525.00,Logística
+57705963,José,Pérez Morales,250303835,M,4248.00,Administración General
+12141567,Josefa,Esparza Castillo,976232567,F,2500.00,Investigación y Desarrollo (I+D)
+79997050,Francisco,Rodríguez Ramos,846018020,M,973.00,Estrategia y Planificación
+25310154,ENRIQUE,Villar Rodriguez,977868144,M,2627.00,Ventas
+51126978,CARMEN,OLIVERA PADILLA,979255443,F,2733.00,Tecnologías de la Información (TI)
+42025323,Julio,Sandoval Medina,"None",M,2540.00,None
+94973631,RAMON,Ramirez Rodriguez,976681068,M,4401.00,Contabilidad
+57004594,Manuel,González Gómez,464152635,M,5000.00,Producción
+67246907,JESUS,May Mex,978275934,M,3310.00,Producción
+41359854,Juan,González Ortiz,656571836,M,2993.00,Contabilidad
+27767837,Jorge,López Torres,600485881,M,1262.00,Investigación y Desarrollo (I+D)
+30363681,Hugo,AGUILAR ACEVEDO,979327629,M,2786.00,Logística
+86574215,Isabel,Martínez Suárez,335748792,F,1095.00,Desarrollo de Producto
+19489640,Pedro,Pérez Chávez,925833679,M,1599.00,Finanzas
+43598425,Rocio,Evaristo Sipion,"None",F,2800.00,Dirección Estratégica
+12226705,SOFIA,Diaz Vidaurre,979958558,F,4632.00,Atención al Cliente
+50943118,MOHAMED,Guerrero Campos,976315643,M,1608.00,Dirección Estratégica
+98366701,VANESA,Rosa Natalia,975912557,F,4700.00,Compras
+28396286,Ana,Ramírez Morales,456812692,F,2310.00,Desarrollo de Producto
+82973038,JOSE,Becerra Martinez,976375331,M,2801.00,Producción
+36932000,José,Sánchez Gómez,314702383,M,1635.00,Comunicación Corporativa
+54936135,Patricia,Rodríguez Flores,600118241,F,3935.00,Legal
+86657538,NICOLAS,Arteaga Cancino,976301386,M,1437.00,Contabilidad
+18455923,Miguel,García Suárez,574009547,M,2110.00,Administración General
+84545434,Isabel,Rodríguez Ortiz,776526202,F,4390.00,Recursos Humanos
+85708860,MARTA,MONTEZ HERRERA,979808412,F,3741.00,Dirección Estratégica
+71058494,Luis,Ramírez Morales,358107876,M,4303.00,Atención al Cliente
+31911785,Isabel,Sánchez Chávez,385751506,F,3676.00,Producción
+48392915,AMPARO,Silva Fernández,979392916,F,1649.00,Calidad
+12034066,Miguel,Reyna Balbuena,978690944,M,4379.00,Logística
+92041209,Lucía,Pérez Ramos,181370448,F,1638.00,Ventas
+95980464,Carmen,González Castillo,195615031,F,4129.00,Compras
+41236984,Maria,Estefan Medina,"None",F,4500.00,Administración General
+25974634,ISMAEL,JIMENEZ VILLANO,979538816,M,3225.00,Dirección Estratégica
+71982387,María,Pérez Torres,359824226,F,3011.00,Seguridad y Salud Ocupacional
+12765372,Luis,Cruz Gómez,282665786,M,2417.00,Seguridad y Salud Ocupacional
+73096951,Patricia,Fernández Ortiz,987863933,F,2047.00,Producción
+68976616,Lucía,Rodríguez Gómez,373237748,F,3821.00,Tecnologías de la Información (TI)
+89982412,JORGE,cumpa paredes,978680943,M,2584.00,Finanzas
+37263589,María,García Morales,172978463,F,2765.00,Contabilidad
+48071101,EDUARDO,Perez borda,976099282,M,1907.00,Compras
+32130726,Laura,Sánchez Chávez,733805139,F,4122.00,Mantenimiento
+32601932,ALFONSO,Galeano Torres,976707023,M,2701.00,Tecnologías de la Información (TI)
+94779059,María,Fernández Morales,294241817,F,2315.00,Administración General
+65042295,Jorge,Ramírez Morales,920054239,M,5000.00,Responsabilidad Social Corporativa
+57956493,Carmen,Pérez Morales,265005769,F,1645.00,Seguridad y Salud Ocupacional
+31461134,CELIA,Torres Gaona,977734263,F,3633.00,Producción
+87087610,AITOR,Melgarejo Acevedo,975987347,M,4292.00,Atención al Cliente
+68273637,Miguel,Ramírez Flores,906858321,M,2788.00,Marketing
+74880979,Fernando,Martínez Ramos,313774102,M,1391.00,Mantenimiento
+59647504,Pedro,Martínez Castillo,512767766,M,5000.00,Contabilidad
+83143808,Carmen,Sánchez Flores,607440209,F,933.00,Ventas
+21257935,OMAR,Samaniego Neyra,979297370,M,2452.00,Contabilidad
+88144889,Biel,Cueva Hernández,978804996,M,2147.00,Tecnologías de la Información (TI)
+41235365,Oscar,Suyon Limo,"None",M,5000.00,Dirección Estratégica
+42236536,Martin,Salazar Piscoya,"None",M,3580.00,Investigación y Desarrollo (I+D)
+98844156,Claudia,Sánchez Gómez,285247455,F,2278.00,Producción
+29563395,JORGE,Nuñez Bances,976442739,M,1748.00,Finanzas
+49856566,Jose,Supo Casas,"None",M,1280.00,Logística
+64622868,Carlos,Pérez Flores,960344904,M,3894.00,Atención al Cliente
+24552907,GABRIEL,Jauregui Valdes,979514412,M,1451.00,Finanzas
+61757569,Isabel,Rodríguez Castillo,435658234,F,4833.00,Investigación y Desarrollo (I+D)
+15546389,VICENTE,Riojas Bautista,975838676,M,3962.00,Finanzas
+489776345,Carmen,González Suárez,939861028,F,2280.00,Dirección Estratégica
+93589928,Patricia,Martínez Flores,237382461,F,2532.00,Tecnologías de la Información (TI)
+23305861,Jorge,Cruz Torres,463372981,M,2990.00,Estrategia y Planificación
+64892845,Alejandro,Angeles Aguilar,976262717,M,2487.00,Estrategia y Planificación
+52209182,Manuel,García Castillo,964585306,M,3385.00,Marketing
+39642508,Manuel,Fernández Ramos,224449018,M,4630.00,Logística
+34913562,CARLA,GONZALEZ MAHECHA,977346772,F,3228.00,Ventas
+22652749,Gabriela,Ramírez Morales,249310312,F,4963.00,Dirección Estratégica
+89109108,Sofía,García Suárez,965475098,F,5000.00,Ventas
+46906590,Ana,Cruz Morales,831444791,F,2922.00,Atención al Cliente
+16434381,Luis,González Suárez,419115804,M,2445.00,Comunicación Corporativa
+16586064,Sofía,García Torres,188236262,F,1111.00,Calidad
+20310728,Isabel,García Ortiz,548815835,F,1770.00,Legal
+74525779,Manuel,Cruz Suárez,809090007,M,1459.00,Estrategia y Planificación
+17968101,Fernando,Pérez Mendoza,460172313,M,5000.00,Seguridad y Salud Ocupacional
+65445467,José,Fernández Chávez,931734777,M,1814.00,Investigación y Desarrollo (I+D)
+48951809,JESUS,Amutari Justiniano,976027001,F,3907.00,Desarrollo de Producto
+40255655,Diana,Ermogenes Monja,"None",F,3500.00,None
+91412963,Elías,Ubilla Mariños,977384035,M,1646.00,Finanzas
+45612887,Javier,Esteban Moreno,"None",M,2580.00,Logística
+28890055,Isabel,Rodríguez Suárez,941477501,F,534.00,Estrategia y Planificación
+33055017,Manuel,García Ramos,292021712,M,4602.00,Comunicación Corporativa
+84158569,Juan,Sánchez Morales,465883808,M,1454.00,Administración General
+55566629,Laura,Cruz Mendoza,558017100,F,4171.00,Mantenimiento
+64038867,Juan,López Morales,967703090,M,4394.00,Logística
+52137668,Matías,Alburo Gaitan,976564503,M,2870.00,Ventas
+79781244,Juan,López Suárez,495426500,M,3614.00,Finanzas
+46606424,LAURA,QUEREVALÚ PAIVA,976189455,F,4096.00,Producción
+81205657,Javier,Montañez Ayala,975687327,M,4539.00,Finanzas
+21942060,ANA ISABEL,Benítez Cordova,978562473,F,2847.00,Logística
+13906283,José,López Mendoza,874007592,M,1960.00,Contabilidad
+34488431,AMPARO,Sosa Martínez,975696639,F,2889.00,Desarrollo de Producto
+97737247,Juan,Martínez Flores,695992937,M,741.00,Responsabilidad Social Corporativa
+35997689,Manuel,Valencia Albitres,979090899,M,3090.00,Desarrollo de Producto
+65899981,Fernando,Martínez Ramos,222831951,M,2645.00,Desarrollo de Producto
+76593788,Luis,García Ramos,705781280,M,2221.00,Estrategia y Planificación
+24106567,Manuel,Rodríguez Ramos,300890597,M,2248.00,Marketing
+44811268,Juan,Pérez Torres,217721772,M,4618.00,Mantenimiento
+14993352,Ana,Sánchez Suárez,522091565,F,1023.00,Responsabilidad Social Corporativa
+19278172,José,Martínez Morales,191201054,M,2227.00,Producción
+26531931,José,González Chávez,393655399,M,1806.00,Comunicación Corporativa
+77169121,José,González Gómez,385843440,M,3241.00,Logística
+77909324,Carmen,Cruz Mendoza,491622545,F,420.00,Atención al Cliente
+78414878,Isabel,Ramírez Chávez,850332549,F,1590.00,Logística
+19569100,Jorge,Pérez Morales,601742661,M,559.00,Calidad
+48919034,Carmen,Cruz Flores,545660545,F,3154.00,Mantenimiento
+69305064,Ana,Pérez Flores,123307070,F,1003.00,Atención al Cliente
+46639432,Lucía,Pérez Flores,466449043,F,5000.00,Mantenimiento
+82428270,Pedro,Martínez Flores,544832472,M,1602.00,Marketing
+67440415,ALBA,Flores Tello,977752157,F,1790.00,Producción
+28860369,Fernando,González Mendoza,875596590,M,5000.00,Compras
+15652777,MARINA,Herrera Luna,976400406,F,4175.00,Administración General
+42980807,María,Cruz Morales,807281067,F,2933.00,Contabilidad
+81343821,Asier,Rosales Handal,975944388,M,1656.00,Recursos Humanos
+88911505,CRISTINA,Yupanqui Rodriguez,977333118,F,3869.00,Producción
+12692331,Lucía,Martínez Ortiz,490374140,F,5000.00,Atención al Cliente
+55669942,AINHOA,PULLUTASIG GARCES,978829920,F,2849.00,Administración General
+98337545,Carmen,Ramírez Suárez,170333524,F,2150.00,Compras
+94155613,Miguel,Pérez Flores,623962434,M,4676.00,Dirección Estratégica
+17653409,Isabel,Martínez Suárez,120840172,F,3353.00,Estrategia y Planificación
+17768783,DANIELA,Bergendahl Coronado,975876020,F,2684.00,Calidad
+12284768,Jorge,Martínez Castillo,759249953,M,3264.00,Recursos Humanos
+44335359,Isabel,Fernández Morales,622721909,F,4432.00,Contabilidad
+30372885,José,Ramírez Ortiz,704686527,M,4679.00,Logística
+39952589,Luis,Martínez Morales,410322679,M,983.00,Estrategia y Planificación
+20904396,ISAAC,Villegas Murayari,978072532,M,2865.00,Contabilidad
+26461098,Jorge,López Chávez,766936121,M,3556.00,Legal
+73675420,IRENE,Atalaya Urrutia,978565955,F,2360.00,Finanzas
+87795345,Jorge,Rodríguez Gómez,584623700,M,3684.00,Marketing
+66314107,María,Pérez Ramos,752260373,F,1000.00,Atención al Cliente
+55661355,Ana,Pérez Torres,978683692,F,2142.00,Contabilidad
+68078261,Juan,Martínez Castillo,268740666,M,2588.00,Logística
+78454771,Patricia,Cruz Flores,604327017,F,2337.00,Estrategia y Planificación
+21243915,Lucía,Martínez Ramos,659365998,F,1658.00,Marketing
+15905692,Luis,García Mendoza,959876035,M,765.00,Investigación y Desarrollo (I+D)
+72541724,Lucía,Pérez Chávez,645830357,F,4531.00,Mantenimiento
+50672901,Fernando,Martínez Ortiz,234095206,M,812.00,Logística
+49331402,Pedro,López Castillo,547636684,M,2024.00,Dirección Estratégica
+55265555,Laura,López Castillo,567984236,F,5000.00,Compras
+25559171,Claudia,Martínez Mendoza,888497893,F,1237.00,Dirección Estratégica
+330232629,MIGUEL ANGEL,CALDERON MORENO,976646932,M,3060.00,Legal
+12777093,IRENE,Chávez Llanos,977391779,F,1628.00,Estrategia y Planificación
+69151376,José,Fernández Chávez,257972649,M,4103.00,Administración General
+58196216,FELIPE,ESTRADA CRISANTO,977849955,M,3295.00,Logística
+24414517,Francisco,Cruz Morales,227576663,M,1684.00,Ventas
+24428265,Luis,García Flores,108735192,M,1478.00,Finanzas
+43898036,LIDIA,VALDIVIA GAMIO,976475362,F,2125.00,Legal
+57448072,FATIMA,Davila Garay,979168630,F,3842.00,Producción
+39137256,Francisco,Rodríguez Gómez,690159328,M,4103.00,Producción
+75224311,Ana,Ramírez Ramos,438286981,F,436.00,Recursos Humanos
+62129211,Claudia,Rodríguez Torres,716687869,F,4468.00,Investigación y Desarrollo (I+D)
+"5222224 ",Tota,Tello Huamaní,976923196,M,800.00,Investigación y Desarrollo (I+D)
+52222244,Tato,Trinidad López,976923197,M,700.00,Investigación y Desarrollo (I+D)
+52222444,Tita,Taboada Ayala,976923198,F,3000.00,Investigación y Desarrollo (I+D)
+52224444,Toña,Tequén Rosado,976923199,F,5000.00,Investigación y Desarrollo (I+D)
+52244444,Tula,Tiznado Tiznado,976923123,F,4000.00,Investigación y Desarrollo (I+D)
+52444444,Tarcila,Torrejón Suclupe,976923124,F,3000.00,Investigación y Desarrollo (I+D)
+"5111111 ",Tatiana,Tafur Sánchez,976923125,F,2000.00,Investigación y Desarrollo (I+D)
+"5111114 ",Tati,Torres Saavedra,976923126,F,1000.00,Investigación y Desarrollo (I+D)
+51111144,Tito,Ternero Torres,976923127,M,2000.00,Investigación y Desarrollo (I+D)
+51111444,Toño,Toro Torrejón,976923128,M,2000.00,Investigación y Desarrollo (I+D)
+51114444,Filomena,Farfán Pinto,976923129,F,5000.00,Administración General
+51144444,Flor,Fierro Peña,976223123,F,4000.00,Investigación y Desarrollo (I+D)
+51444444,Flora,Fleitas Córdova,976423123,F,5000.00,Logística
+50000000,Fanny,Fiestas Tequén,976323123,F,3000.00,Dirección Estratégica
+50000004,Faviola,Farroñan Fernandez,976523123,F,650.00,Administración General
+50000044,Freddy,Fernandez Pérez,976623123,M,400.00,Investigación y Desarrollo (I+D)
+50000444,Fulvio,Farro Roque,976723123,M,500.00,Logística
+94589871,Claudia,Ramírez Suárez,164858931,F,3147.00,Comunicación Corporativa
+50004444,Fito,Figueroa Gomez,976823123,M,600.00,Dirección Estratégica
+88167907,MARIO,Apaza Soria,977130049,M,4570.00,Ventas
+87428919,José,González Gómez,602576977,M,5000.00,Compras
+82644040,Gabriela,González Castillo,758590647,F,2986.00,Mantenimiento
+93211779,Pedro,Sánchez Chávez,101086688,M,2305.00,Atención al Cliente
+50044444,Franco,Farje Garcia,976923123,M,2000.00,Administración General
+38084960,Patricia,García Ortiz,450227100,F,1654.00,Investigación y Desarrollo (I+D)
+37725137,MARC,VILCHEZ CARRANZA,979283700,M,3287.00,Producción
+46804723,Rafael,Florez Falla,979366657,M,2643.00,Compras
+50444444,Francisco,Falen Farje,976123123,M,1000.00,Investigación y Desarrollo (I+D)
+92072416,Juan,López Mendoza,437565705,M,2993.00,Comunicación Corporativa
+39169911,Gabriela,Sánchez Torres,633046277,F,3404.00,Dirección Estratégica
+88341955,Carmen,Rodríguez Chávez,998394792,F,5000.00,Tecnologías de la Información (TI)
+16175628,JOEL,Villalobos Hoyos,978351065,M,1447.00,Compras
+46775419,Luka,Pichardo López,979497895,M,3884.00,Estrategia y Planificación
+55612134,ANDREA,NIÑO VALLEJOS,977571142,F,5000.00,Tecnologías de la Información (TI)
+61107990,MARIA CONCEPCION,Cubas Fernández,979396817,F,4567.00,Calidad
+52638839,JUANA,Espejo Junco,979487802,F,3706.00,Dirección Estratégica
+60062407,PATRICIA,Santisteban Valdera,978681451,F,5000.00,Atención al Cliente
+13156239,Ana,Martínez Mendoza,818946369,F,3175.00,Administración General
+83388237,Luis,Fernández Morales,779535600,M,588.00,Administración General
+21854370,Patricia,Sánchez Torres,902081530,F,1928.00,Administración General
+57772287,SOLEDAD,SILVA MARTINEZ,976526456,F,2960.00,Recursos Humanos
+37038395,ADRIAN,Vera Barturen,976517296,M,3825.00,Investigación y Desarrollo (I+D)
+93077350,CRISTIAN,FATT VIVAS,976415694,M,4683.00,Compras
+79476236,Gabriela,Sánchez Mendoza,233134612,F,1228.00,Finanzas
+86024020,MARIA ANTONIA,Maysundo Fernandez,978814477,F,3043.00,Contabilidad
+36000951,Laura,González Flores,478088302,F,1959.00,Finanzas
+12029731,FATIMA,Sanabria Melero,979584806,F,1272.00,Finanzas
+12545947,Fernando,García Flores,828262926,M,3858.00,Investigación y Desarrollo (I+D)
+37379779,Luis,López Flores,868356061,M,4669.00,Marketing
+88742057,JUAN CARLOS,Flores Paz,979777285,M,1525.00,Investigación y Desarrollo (I+D)
+29860750,MOHAMED,Gallardo Valderrana,975648236,M,1562.00,Desarrollo de Producto
+61810648,Jorge,Rodríguez Torres,955892156,M,1062.00,Compras
+53591215,DAVID,Ríos Marulanda,978874059,M,2035.00,Atención al Cliente
+10542424,Juan,Sánchez Morales,812346613,M,4706.00,Dirección Estratégica
+16017075,Gabriela,Fernández Ramos,253316426,F,5000.00,Calidad
+92971988,Patricia,Rodríguez Mendoza,188961661,F,2569.00,Estrategia y Planificación
+16809615,Pedro,García Chávez,425728443,M,4359.00,Finanzas
+56870884,MARIA CARMEN,ODAR NICOLAS,977983158,F,3771.00,Logística
+75445172,Juan,González Chávez,651559261,M,3616.00,Desarrollo de Producto
+65740332,Lucía,Sánchez Chávez,439996930,F,1454.00,Compras
+96743904,RAUL,Benites Bobadilla,977924275,M,5000.00,Desarrollo de Producto
+99171198,Patricia,González Torres,147275526,F,5000.00,Atención al Cliente
+23882284,Juan,Fernández Ramos,607244076,M,2361.00,Investigación y Desarrollo (I+D)
+11443485,CARLOS,Olivos Arrunátegui,975571598,M,1927.00,Tecnologías de la Información (TI)
+59632462,Santiago,SIERRA FERNANDEZ,979666975,M,4218.00,Tecnologías de la Información (TI)
+43001702,Carmen,López Castillo,353741642,F,1068.00,Estrategia y Planificación
+14888310,Carlos,Pérez Suárez,362699284,M,685.00,Ventas
+86633830,Luis,Rodríguez Chávez,315327176,M,4690.00,Ventas
+61923215,Carmen,Pérez Castillo,862567357,F,4603.00,Producción
+37556936,MILAGROS,Hernández Molina,978990407,F,4300.00,Compras
+28747871,Ana,García Ramos,473456082,F,896.00,Producción
+84481612,GLORIA,ACURIO GUTIERREZ,976318424,F,3495.00,Estrategia y Planificación
+91940934,Isabel,Cruz Chávez,836030619,F,4096.00,Finanzas
+58620361,Gonzalo,Rodriguez Barrientos,975771743,M,1328.00,Compras
+99767433,Gabriela,Cruz Mendoza,693558825,F,3268.00,Responsabilidad Social Corporativa
+13410587,Ana,Ramírez Morales,263903656,F,4629.00,Recursos Humanos
+55560145,Rodrigo,Chirre Chavez,979682946,M,1534.00,Producción
+38786199,Fernando,Fernández Castillo,426388092,M,1785.00,Legal
+87069094,Jorge,Cruz Chávez,973053096,M,4581.00,Seguridad y Salud Ocupacional
+39854551,Leo,Sánchez Acuña,979401818,M,3232.00,Contabilidad
+96096992,RICARDO,BARBADILLO UCHOFEN,978226226,M,4267.00,Marketing
+15666708,Laura,Sánchez Ramos,386189284,F,4621.00,Logística
+77876748,YOLANDA,Sierra López,977349726,F,4457.00,Finanzas
+49489050,JUAN ANTONIO,Leon Rodea,978633188,M,4476.00,Ventas
+19206860,Isabel,García Gómez,322921634,F,3155.00,Producción
+78865521,Isabel,González Flores,876930533,F,2223.00,Responsabilidad Social Corporativa
+13771331,Carmen,Martínez Ramos,732118862,F,2308.00,Seguridad y Salud Ocupacional
+39930537,Patricia,López Ortiz,340256345,F,2035.00,Comunicación Corporativa
+37101063,ESTEBAN,MUÑOZ GUEVARA,976575164,M,2775.00,Ventas
+60424901,Juan,Cruz Ramos,964252210,M,4266.00,Ventas
+47751523,Isabel,Rodríguez Ortiz,652175072,F,2228.00,Mantenimiento
+97236872,Manuel,Rodríguez Castillo,284058891,M,812.00,Producción
+24529171,Manuel,Rodríguez Morales,345701837,M,1224.00,Marketing
+73780548,Ana,López Flores,796271652,F,4571.00,Desarrollo de Producto
+93768070,María,Pérez Ramos,283766953,F,1462.00,Recursos Humanos
+60490119,Isabel,López Ramos,296505637,F,4492.00,Contabilidad
+56053623,María,Pérez Suárez,217565806,F,2685.00,Contabilidad
+20925334,Sofía,López Morales,461534099,F,448.00,Dirección Estratégica
+94595280,Lucía,Sánchez Morales,439957206,F,747.00,Compras
+6671A6426,ALVARO,montenegro pastor,979310128,M,1377.00,Contabilidad
+98308223,Lucía,Fernández Flores,759963097,F,2131.00,Compras
+41809373,Gabriela,Pérez Ortiz,211686447,F,1462.00,Recursos Humanos
+26512248,Aitor,Salazar Franco,979152275,M,2597.00,Logística
+16827662,Carlos,Pérez Flores,190885719,M,1144.00,Administración General
+33520409,Claudia,Cruz Suárez,367612693,F,3716.00,Logística
+54001458,Francisco,García Chávez,260006626,M,641.00,Responsabilidad Social Corporativa
+35027179,Laura,Cruz Mendoza,350168771,F,3388.00,Logística
+62731069,Gabriela,Ramírez Mendoza,215863579,F,1480.00,Legal
+94978011,ALEX,Mendoza Acuña,978932561,M,1488.00,Investigación y Desarrollo (I+D)
+80729663,Carlos,González Flores,589302626,M,3084.00,Responsabilidad Social Corporativa
+52187756,Francisco,Rodríguez Flores,909253299,M,2175.00,Tecnologías de la Información (TI)
+11325225,Laura,Fernández Castillo,859862719,F,4154.00,Seguridad y Salud Ocupacional
+65151895,Vanessa,Gonzaga Martinez,976454789,F,3800.00,Investigación y Desarrollo (I+D)
+60015895,Cindy,Urpeque Palacios,976454789,F,3800.00,Investigación y Desarrollo (I+D)
+13423191,Ana,González Morales,703164771,F,1062.00,Producción
+23939835,MARIA ANGELES,Villanueva Rojas,976914923,F,4760.00,Administración General
+63244791,Neizan,Cedeno Loor,977845353,M,1223.00,Calidad
+29662512,Ana,Martínez Ramos,103580866,F,1670.00,Finanzas
+69657288,Carmen,Cruz Ortiz,401224196,F,2171.00,Producción
+20519924,Carlos,Rodríguez Morales,338676133,M,4107.00,Atención al Cliente
+20273711,Sofía,Pérez Torres,195997994,F,954.00,Administración General
+92930834,ROBERTO,Nizama bustamante,976126360,M,3751.00,Finanzas
+19355155,MARIA ROSARIO,CHAVEZ CORDOVA,978390632,F,1517.00,Contabilidad
+15694028,Carmen,López Suárez,113475899,F,4876.00,Investigación y Desarrollo (I+D)
+28740472,Manuel,Fernández Ramos,347008000,M,3700.00,Atención al Cliente
+97328950,Adrián,Conde Altamirano,979567471,M,3109.00,Producción
+15625691,Pedro,Martínez Morales,644743008,M,2506.00,Investigación y Desarrollo (I+D)
+86297201,NATALIA,Puac Luna,978161767,F,3381.00,Recursos Humanos
+44073877,Juan,González Castillo,145178407,M,4307.00,Atención al Cliente
+62141567,Julio,Guerra Castillo,976232567,M,2500.00,Investigación y Desarrollo (I+D)
+62189567,Miguel,Ursaiz Mendoza,976232567,M,2500.00,Investigación y Desarrollo (I+D)
+43197191,HUGO,GARCIA TORRES,977918522,M,1412.00,Compras
+96845677,EMILIO,Yamunaqué Calderón,979870010,M,2786.00,Dirección Estratégica
+63113331,Juan,Pérez Ramos,994303032,M,3781.00,Contabilidad
+20288856,Pedro,González Torres,436519444,M,586.00,Mantenimiento
+31267180,José,Cruz Flores,986237848,M,3684.00,Finanzas
+89425112,ALEJANDRO,Mera Balcázar,978431482,M,1736.00,Producción
+92800785,Ana,Pérez Gómez,986908972,F,1407.00,Seguridad y Salud Ocupacional
+54866480,Darío,Araya Ceciliano,977979966,M,4316.00,Recursos Humanos
+29004995,Liam,Reyes Bautista,975760301,M,3481.00,Contabilidad
+71119930,Juan,Fernández Torres,327922988,M,424.00,Estrategia y Planificación
+12422421,Miguel,Martínez Gómez,425979297,M,3996.00,Investigación y Desarrollo (I+D)
+80877825,Laura,Rodríguez Ortiz,161447090,F,4521.00,Administración General
+90933262,Patricia,Rodríguez Flores,750621733,F,4425.00,Logística
+12240740,Claudia,Martínez Castillo,618519995,F,606.00,Finanzas
+18116064,Jorge,Fernández Chávez,817919707,M,3771.00,Legal
+50263636,María,Fernández Ortiz,734072752,F,1047.00,Comunicación Corporativa
+50318244,Lucía,Sánchez Suárez,694783919,F,1862.00,Calidad
+12719712,Miguel,Sánchez Flores,653209241,M,2809.00,Ventas
+74917477,ESTHER,Gonzales llano,977117889,F,3307.00,Ventas
+18180363,Lucía,García Torres,247832056,F,2697.00,Mantenimiento
+15616367,Luis,Fernández Torres,545267510,M,2818.00,Compras
+78046666,Laura,Cruz Chávez,679953920,F,2941.00,Recursos Humanos
+61325330,Miguel,Martínez Flores,369707347,M,1810.00,Recursos Humanos
+75097101,Pedro,González Morales,934848904,M,764.00,Finanzas
+33494154,Jorge,Pérez Gómez,182428808,M,1187.00,Seguridad y Salud Ocupacional
+52864469,Carmen,Cruz Ortiz,179855909,F,2548.00,Logística
+33540992,Julen,Toba Espinoza,975895478,M,2585.00,Recursos Humanos
+92446263,Francisco,González Ortiz,135847780,M,2626.00,Ventas
+90888177,Pedro,Pérez Torres,944418036,M,1494.00,Responsabilidad Social Corporativa
+17386936,CATALINA,CASTRO MONTOYA,977653295,F,2986.00,Producción
+76988066,IGNACIO,Romero Torres,979128350,M,4587.00,Marketing
+69612557,Pedro,Ramírez Gómez,827398112,M,4351.00,Administración General
+77980579,Carlos,López Chávez,196039335,M,1673.00,Legal
+62441256,Mario,Uriarte Odar,976343648,M,4000.00,Investigación y Desarrollo (I+D)
+62341256,Luis,Gutiérrez Siésquen,976343648,M,4000.00,Investigación y Desarrollo (I+D)
+95802361,JULIAN,Bardales Carlos,979960759,M,4364.00,Atención al Cliente
+53437313,Lucía,Ramírez Suárez,702178398,F,2282.00,Recursos Humanos
+83554739,Claudia,López Ramos,629605373,F,2019.00,Administración General
+93120349,Ana,González Ortiz,488254797,F,2567.00,Ventas
+59069211,Miguel,Ramírez Castillo,620216951,M,2247.00,Ventas
+13373054,Jorge,VALDOVINOS CEBALLOS,978503443,M,2312.00,Calidad
+22756489,Manuel,García Mendoza,790415657,M,3789.00,Dirección Estratégica
+67695611,Laura,Pérez Suárez,468164748,F,1383.00,Atención al Cliente
+93985676,Juan,Cruz Chávez,804115890,M,2400.00,Dirección Estratégica
+34453093,Carlos,González Ortiz,396273712,M,4491.00,Responsabilidad Social Corporativa
+51639127,Carlos,Ramírez Mendoza,342631915,M,3149.00,Atención al Cliente
+90798736,Ana,Cruz Torres,422672276,F,3961.00,Compras
+47470727,Luis,López Flores,509364086,M,1779.00,Recursos Humanos
+93429651,José,García Torres,394867062,M,3339.00,Atención al Cliente
+24483384,Patricia,Fernández Chávez,652375667,F,1064.00,Tecnologías de la Información (TI)
+15766901,Sofía,Cruz Gómez,889213050,F,2522.00,Finanzas
+39169851,Pedro,Pérez Ramos,100759224,M,4020.00,Mantenimiento
+71570491,Jorge,Martínez Ortiz,858474908,M,2029.00,Dirección Estratégica
+99522120,Guillermo,Morales Dominguez,977530874,M,3917.00,Contabilidad
+11739739,Carlos,Pérez Morales,586401534,M,4171.00,Marketing
+37891467,Lucía,Martínez Mendoza,859875914,F,2995.00,Calidad
+59217173,JUAN FRANCISCO,Aguilar Mendoza,977453860,M,2939.00,Dirección Estratégica
+20231330,José,Sánchez Chávez,821210781,M,2565.00,Finanzas
+11936735,Laura,Cruz Flores,975501718,F,3679.00,Dirección Estratégica
+28695225,Fernando,Pérez Ramos,565467005,M,4066.00,Finanzas
+20557994,Max,Peñuelas López,978050628,M,4785.00,Investigación y Desarrollo (I+D)
+68074401,Patricia,Pérez Ramos,902139568,F,976.00,Responsabilidad Social Corporativa
+87662773,Fernando,Cruz Ramos,855410781,M,493.00,Seguridad y Salud Ocupacional
+93718458,Claudia,Martínez Morales,560786317,F,2195.00,Administración General
+43431979,Carlos,Fernández Chávez,750987815,M,3882.00,Finanzas
+94090315,Carmen,Martínez Flores,246873251,F,1294.00,Contabilidad
+99256581,Gabriela,González Chávez,491286551,F,414.00,Finanzas
+36536104,Carmen,López Torres,844393671,F,3908.00,Legal
+45150336,PAU,Paiva Neciosup,979116454,M,3097.00,Tecnologías de la Información (TI)
+31704150,Isabel,Rodríguez Morales,476797761,F,3423.00,Desarrollo de Producto
+61141550,Jorge,Pérez Suárez,108010923,M,1989.00,Calidad
+57717702,Sofía,Ramírez Mendoza,121171867,F,3441.00,Tecnologías de la Información (TI)
+82786680,Manuel,Cruz Mendoza,711411496,M,536.00,Investigación y Desarrollo (I+D)
+81028863,Patricia,Rodríguez Gómez,626222625,F,5000.00,Calidad
+48364415,Pedro,Cruz Mendoza,386006005,M,2564.00,Tecnologías de la Información (TI)
+87926161,Isabel,Rodríguez Gómez,715523990,F,4537.00,Desarrollo de Producto
+55864896,Bruno,Palacios Balbín,976185823,M,4391.00,Desarrollo de Producto
+46512709,Manuel,Fernández Ortiz,179353543,M,469.00,Mantenimiento
+77532404,María,González Castillo,687928597,F,2415.00,Marketing
+17334089,Francisco,García Gómez,650590501,M,838.00,Atención al Cliente
+56581735,Sofía,Fernández Chávez,588697436,F,2156.00,Desarrollo de Producto
+63634299,Juan,Cruz Gómez,950788986,M,1336.00,Ventas
+37284977,Juan,Fernández Mendoza,708904897,M,730.00,Estrategia y Planificación
+28830162,Ana,Sánchez Castillo,754916158,F,4493.00,Marketing
+46096697,Patricia,López Ramos,172812312,F,4092.00,Calidad
+36068294,JOSE ANGEL,Almeyda Pachas,977452066,M,3146.00,Compras
+91374489,Sofía,Cruz Mendoza,862582880,F,3686.00,Administración General
+88573183,Gabriela,González Morales,207253414,F,2135.00,Estrategia y Planificación
+78364224,Ana,Ramírez Chávez,348246706,F,4532.00,Responsabilidad Social Corporativa
+13588702,Juan,Sánchez Ramos,786089236,M,1587.00,Atención al Cliente
+21437424,ISABEL,Minda Hernández,979301146,F,1753.00,Tecnologías de la Información (TI)
+81221577,JULIA,NAVARRETE JUNGAL,978330030,F,4622.00,Legal
+17931609,Isabel,Fernández Ramos,405777526,F,1216.00,Contabilidad
+18540158,Claudia,González Ortiz,648028073,F,2118.00,Ventas
+55908176,Pablo,Perez Alcantara,979779835,M,1893.00,Contabilidad
+30115483,INMACULADA,CACERES CORDOVA,979081232,F,1686.00,Compras
+23628178,Carlos,Fernández Torres,426328163,M,3263.00,Administración General
+58434527,José,Cruz Ortiz,460933439,M,1230.00,Mantenimiento
+76071125,Carmen,Sánchez Chávez,942582450,F,2239.00,Tecnologías de la Información (TI)
+18955794,EUGENIA,SHINGON OROZCO,976387122,F,2994.00,Estrategia y Planificación
+15151895,Ramón,Nieto Martinez,976454789,M,3800.00,Investigación y Desarrollo (I+D)
+20041743,ALICIA,Lluncor Vásquez,979381459,F,3287.00,Estrategia y Planificación
+78001165,EVA MARIA,Cruz Cruz,977823283,F,4294.00,Contabilidad
+66044282,Manuel,Sánchez Castillo,280641358,M,2260.00,Seguridad y Salud Ocupacional
+71927747,NOELIA,GALLO CORELLA,977782978,F,3267.00,Legal
+71912347,Claudia,Cruz Morales,297465421,F,5000.00,Mantenimiento
+33646616,Sofía,Fernández Morales,471509112,F,4595.00,Finanzas
+39898006,Lucía,Pérez Gómez,892740582,F,524.00,Calidad
+33266129,Carlos,García Castillo,547090162,M,506.00,Atención al Cliente
+77396876,Carlos,Sánchez Castillo,208505691,M,3473.00,Desarrollo de Producto
+84400943,Isabel,Fernández Ramos,778082480,F,2323.00,Marketing
+61844794,María,Pérez Ramos,789649651,F,538.00,Dirección Estratégica
+44608906,Gabriel,Otero Castillo,978006549,M,2325.00,Finanzas
+40963166,Miguel,Fernández Flores,384537387,M,2823.00,Logística
+69025702,Juan,Ramírez Mendoza,443266568,M,1891.00,Recursos Humanos
+49384201,ALBERTO,GUTIERREZ BALCAZAR,978861849,M,1668.00,Contabilidad
+19384778,Sofía,Rodríguez Castillo,232914791,F,4959.00,Logística
+41453822,MARIA,GUTIERREZ BALCAZAR,979785366,M,4389.00,Marketing
+28171934,Patricia,Cruz Ortiz,278284873,F,1164.00,Tecnologías de la Información (TI)
+41589307,Carlos,Fernández Flores,562451820,M,2199.00,Logística
+63072969,HUGO,Miñope Cajusol,978522437,M,2208.00,Calidad
+80049382,Rubén,Carbajal Comer,979815681,M,3330.00,Tecnologías de la Información (TI)
+23610383,Pedro,López Chávez,854556346,M,3510.00,Administración General
+78989907,Carlos,Sánchez Chávez,820876646,M,714.00,Comunicación Corporativa
+73052930,Manuel,García Flores,394766090,M,4449.00,Logística
+11013014,GEMA,Solorzano Ortega,979322497,F,2610.00,Logística
+21699136,JOSE MANUEL,Quiroz Montalván,978942645,M,2040.00,Administración General
+85440101,ALEJANDRA,ROJAS MAGDALENO,977348485,F,1433.00,Logística
+66895649,Enrrique,Urtiaga Talledo,976243758,M,2000.00,Dirección Estratégica
+66895647,Ricardo,Galindo Perales,976243758,M,2000.00,Dirección Estratégica
+86394192,Claudia,López Torres,391913973,F,968.00,Mantenimiento
+92364469,MARIANO,Caicedo Cumpa,979019134,M,5000.00,Finanzas
+70155327,Laura,Sánchez Suárez,885248569,F,3011.00,Legal
+62888989,Isabel,López Torres,863333158,F,3704.00,Desarrollo de Producto
+96067653,ANGEL,AREVALO MURCIA,976497404,M,2845.00,Tecnologías de la Información (TI)
+71550386,GLORIA,JIMENEZ MARTINEZ,975782712,F,1284.00,Contabilidad
+84149833,Pedro,Fernández Torres,455912825,M,4032.00,Finanzas
+64161335,Juan,Gastlo Quispe,"None",M,4300.00,Administración General
+68161335,Carlos,Urcia Dejo,"None",M,4300.00,Administración General
+62100098,Karina,Ulloque Neyra,976341245,F,2500.00,Administración General
+62163798,Alicia,Guerrero Lopez,976341245,F,2500.00,Administración General
+11628949,Miguel,González Gómez,800268017,M,878.00,Dirección Estratégica
+67844002,DANIEL,Leytón Azabache,975960520,M,2802.00,Legal
+5038c8843,Francisco,García Torres,958653955,M,493.00,Responsabilidad Social Corporativa
+64243423,Jaime,Galvez Fernandez,976281222,M,5000.00,Dirección Estratégica
+31119863,Patricia,Fernández Flores,781386110,F,2298.00,Desarrollo de Producto
+66101321,Esperanza,Uriticoichea Moreno,"None",F,2570.00,Dirección Estratégica
+66141321,Juliana,Gándara Morales,"None",F,2570.00,Dirección Estratégica
+78161828,Juan,González Flores,259001228,M,2126.00,Seguridad y Salud Ocupacional
+99846288,SILVIA,LUNA LARA,979990023,F,4631.00,Logística
+34392566,Patricia,García Ramos,863746764,F,1533.00,Producción
+87584191,BEATRIZ,loayza tarrillo,977032929,F,2536.00,Producción
+53732686,Lucía,Sánchez Morales,190829170,F,3387.00,Producción
+83215060,Carlos,Ramírez Morales,503998653,M,2290.00,Marketing
+84503627,Lucía,Fernández Torres,355971179,F,2561.00,Seguridad y Salud Ocupacional
+21015300,Luis,Pérez Suárez,518607669,M,1733.00,Legal
+17394002,Mohamed,Martínez Duron,976349437,M,1880.00,Calidad
+65378188,Carmen,González Castillo,131778341,F,4968.00,Logística
+47482465,Laura,Ramírez Chávez,901590413,F,934.00,Contabilidad
+70436612,Pedro,Ramírez Ramos,637617640,M,1952.00,Contabilidad
+69541282,ALBERT,Arévalo Hernández,978608817,M,4544.00,Recursos Humanos
+73456001,EVA,SERRATO VILCHERRES,975637941,F,2045.00,Compras
+98654617,Carlos,Ramírez Flores,506376892,M,4014.00,Ventas
+12736005,Luis,López Ramos,289167179,M,4049.00,Ventas
+31132321,JUAN MANUEL,Ortega Serruto,978647162,M,5000.00,Finanzas
+68195683,Jorge,Martínez Torres,659346902,M,1273.00,Contabilidad
+61592996,IGNACIO,Balcázar Blas,976012803,M,2699.00,Atención al Cliente
+43227860,RODRIGO,MONSALVE FERNANDEZ,978328374,M,5000.00,Ventas
+98162345,Cesar,Urutia Velezmoro,"None",M,2570.00,None
+66071890,Yuliana,Ugaz Maquén,"None",F,2500.00,Administración General
+66171890,Tatiana,Gonzales Torrealba,"None",F,2500.00,Administración General
+33385062,TERESA,Hernández Hernández,977036414,F,4542.00,Tecnologías de la Información (TI)
+64299423,Jesús,Ulloa Ballona,976281222,M,5000.00,Dirección Estratégica
+68162345,Pedro,Grondona Marquina,"None",M,2570.00,None
+97035871,Isabel,Rodríguez Castillo,487171015,F,4215.00,Estrategia y Planificación
+74750363,Pedro,Cruz Flores,524400111,M,2303.00,Compras
+47662498,Miguel,Rodríguez Suárez,672800119,M,5000.00,Mantenimiento
+81985292,Miguel,García Mendoza,393120797,M,776.00,Recursos Humanos
+53845494,Manuel,López Chávez,483023811,M,3450.00,Investigación y Desarrollo (I+D)
+72998855,Martha,Hernandez Baca,976450688,F,2800.00,Investigación y Desarrollo (I+D)
+84590281,Sofía,Martínez Ramos,563882055,F,4475.00,Compras
+75000077,Adriana,Winters Hernandez,976895678,F,4500.00,Logística
+53216585,Pedro,García Morales,228906902,M,2337.00,Desarrollo de Producto
+58199766,Sofía,Ramírez Suárez,915547916,F,1678.00,Producción
+37877160,Francisco,Sánchez Torres,285386975,M,928.00,Comunicación Corporativa
+81868477,Laura,Sánchez Suárez,989804491,F,4514.00,Dirección Estratégica
+50597456,Jorge,Rodríguez Ortiz,211281467,M,1997.00,Comunicación Corporativa
+15940091,Francisco,Ramírez Flores,361384293,M,837.00,Atención al Cliente
+80775200,Jorge,González Flores,799101769,M,5000.00,Comunicación Corporativa
+30054082,Miguel,Ramírez Chávez,616465424,M,3159.00,Atención al Cliente
+48448275,José,García Suárez,579804878,M,3236.00,Legal
+37957433,Sofía,Cruz Flores,801874242,F,1186.00,Seguridad y Salud Ocupacional
+76907558,José,Fernández Suárez,975925989,M,5000.00,Ventas
+53571957,Isabel,Sánchez Ramos,989742011,F,1494.00,Ventas
+64823641,Jorge,Ramírez Ramos,275770975,M,4579.00,Ventas
+72901010,Ana,Wolfenson Bracamonte,976450688,F,2000.00,Logística
+97783695,Francisco,Cruz Suárez,709899582,M,1744.00,Desarrollo de Producto
+79050576,Rosa,Winlong Alarcon,976276425,F,4900.00,Logística
+32505395,Lucía,Cruz Suárez,133294488,F,3055.00,Recursos Humanos
+47453077,Fernando,González Flores,184750227,M,4442.00,Estrategia y Planificación
+96651542,Pedro,López Torres,328793215,M,5000.00,Tecnologías de la Información (TI)
+26682602,FELIPE,Pejerrey Alvarado,979830541,M,4166.00,Estrategia y Planificación
+53700264,María,García Ramos,554504222,F,2031.00,Ventas
+23045553,ALBERT,CAYLE ANGELES,975703328,M,3816.00,Administración General
+76736070,Carmen,García Chávez,547424315,F,4184.00,Finanzas
+11707387,Francisco,Sánchez Flores,167847982,M,4668.00,Desarrollo de Producto
+71549507,Patricia,Martínez Gómez,620295877,F,3581.00,Logística
+51210274,Carlos,González Ortiz,390447430,M,513.00,Producción
+86205498,MARIA ISABEL,Leon Rojas,978461462,F,1263.00,Tecnologías de la Información (TI)
+49253990,GONZALO,Almonte Valdez,976083888,M,3551.00,Legal
+19504491,SANTIAGO,SAENZ SILVA,978333857,M,2872.00,Logística
+51666848,José,Pérez Ortiz,899369715,M,3935.00,Administración General
+91746419,Miguel,López Suárez,347078900,M,3810.00,Logística
+48110921,Luis,López Suárez,623670534,M,3596.00,Logística
+16063505,Alan,Agapito Lluen,978830679,M,2459.00,Dirección Estratégica
+48444840,Manuel,García Torres,240499922,M,1913.00,Marketing
+68146975,Lucía,Sánchez Ortiz,827089360,F,461.00,Dirección Estratégica
+82073727,JOSE FRANCISCO,SERGIO ANDRES,977007829,M,3725.00,Investigación y Desarrollo (I+D)
+72988776,Carla,Herrera Albujar,976276425,F,4900.00,Dirección Estratégica
+60970783,Carmen,González Torres,588117013,F,4218.00,Compras
+21683264,Patricia,Ramírez Castillo,817850681,F,5000.00,Legal
+35531341,Manuel,Rodríguez Morales,668444781,M,2048.00,Calidad
+72988856,Karolina,Guillen Horna,976213498,F,5000.00,Logística
+42497213,Sofía,Sánchez Morales,924155389,F,1681.00,Legal
+74894444,Julio,Watson Cisneros,976234643,M,5000.00,Investigación y Desarrollo (I+D)
+75999888,Juan,Huamachuco Campos,976234643,M,5000.00,Investigación y Desarrollo (I+D)
+80734123,Carlos,Pérez Castillo,673016516,M,1279.00,Logística
+75999886,Maria,Hidrogo Fernandez,976895678,F,4500.00,Dirección Estratégica
+78999555,Emma,Wong Odar,976237995,F,3500.00,Logística
+72999877,Elvira,Huaman Ordoñes,976237995,F,5000.00,Investigación y Desarrollo (I+D)
+40410948,ANGELA,Bernal Lopez,979965457,F,4511.00,Calidad
+35155132,MARIA NIEVES,Caballero Garbozo,976723408,F,2027.00,Tecnologías de la Información (TI)
+25575082,Francisco,Fernández Suárez,952477450,M,2146.00,Comunicación Corporativa
+25147123,RUBEN,Julca Bruno,975742073,M,3462.00,Desarrollo de Producto
+72663355,Joaquin,Huidobro Lopez,976283068,M,3000.00,Logística
+72998777,Antonio,Huamani Ramirez,976264312,M,2500.00,Administración General
+72886855,Andrea,Huuamachuco Rodas,976263599,F,4300.00,Logística
+10114725,Francisco,Rodríguez Suárez,534259554,M,4421.00,Legal
+34006131,Laura,González Suárez,633331585,F,2949.00,Comunicación Corporativa
+20209683,Miguel,Fernández Ramos,562304715,M,4381.00,Dirección Estratégica
+13717712,Fernando,Cruz Guevara,977986295,M,4167.00,Calidad
+89751676,JESUS,Melgarejo Atauje,976357234,M,2277.00,Contabilidad
+74738017,Patricia,López Chávez,332774331,F,3396.00,Mantenimiento
+74798084,Gabriela,López Suárez,908996038,F,2064.00,Desarrollo de Producto
+34744385,Laura,Pérez Chávez,465837336,F,4410.00,Contabilidad
+15522130,Sofía,Cruz Castillo,355292861,F,2165.00,Producción
+92484352,Jorge,López Torres,861231100,M,4069.00,Atención al Cliente
+45901902,Fernando,Ramírez Suárez,349015396,M,1078.00,Legal
+11986197,Fernando,Pérez Suárez,554898641,M,4700.00,Investigación y Desarrollo (I+D)
+19796176,Claudia,García Castillo,392734264,F,4112.00,Marketing
+61429035,MERCEDES,TICONA TAPIA,977359873,F,4523.00,Producción
+72981000,Claudia,Want LLanos,976213498,M,3400.00,Dirección Estratégica
+24926256,JOSEFA,Silva Parraguez,979254908,F,3293.00,Administración General
+70420062,Carmen,Fernández Flores,535179605,F,2870.00,Logística
+96768865,MATEO,SALAZAR AGUILAR,977365547,M,3291.00,Atención al Cliente
+95284611,Claudia,Fernández Torres,735162004,F,1499.00,Comunicación Corporativa
+35591794,Lucía,Rodríguez Castillo,650825023,F,5000.00,Desarrollo de Producto
+98116958,María,Fernández Morales,768508740,F,4016.00,Producción
+47302080,JAVIER,FERNANDEZ ARRASCUE,976549833,M,1773.00,Dirección Estratégica
+98889123,Fernando,Cruz Morales,456831881,M,3960.00,Ventas
+56330782,Jorge,Rodríguez Gómez,699397610,M,4005.00,Compras
+87107797,Jorge,Martínez Torres,898652276,M,561.00,Logística
+37638250,Laura,Cruz Torres,109226698,F,3348.00,Compras
+74101132,Jaime,Huancas Rojas,"None",M,2000.00,Dirección Estratégica
+74449999,Luis,Winchonlong Romero,"None",M,2000.00,Dirección Estratégica
+67127923,Carmen,Martínez Torres,996947632,F,1124.00,Ventas
+54419396,José,Martínez Suárez,280183165,M,4751.00,Investigación y Desarrollo (I+D)
+91263460,Carmen,García Ortiz,259734407,F,977.00,Contabilidad
+95886841,Juan,Sánchez Chávez,422503557,M,3790.00,Producción
+10025700,ANA MARIA,Rueda Paiva,976032295,F,1248.00,Contabilidad
+39842183,MIGUEL,Otero Arrascue,979316374,M,4058.00,Administración General
+97286047,ANGELES,Ipanaque Cuellar,975657394,F,5000.00,Atención al Cliente
+70085268,VERONICA,GONZALEZ CORONADO,975929652,F,4597.00,Calidad
+28474733,Jorge,Ramírez Morales,289991034,M,2776.00,Administración General
+30469452,ROCIO,Aguilar Huezo,979222229,F,5000.00,Producción
+15791243,VIRGINIA,LUMBI OROZCO,977596050,F,2011.00,Marketing
+76022547,Isabel,Cruz Chávez,649730805,F,3326.00,Finanzas
+75149735,Jorge,García Torres,924570207,M,1880.00,Seguridad y Salud Ocupacional
+74721630,OLGA,CORREA GARCES,976883156,F,2124.00,Logística
+40298060,BEATRIZ,LAURA HUILLCA,979734616,F,2277.00,Marketing
+47380452,Carmen,López Gómez,870124548,F,430.00,Tecnologías de la Información (TI)
+40331003,Carlos,Pérez Mendoza,514720244,M,3781.00,Recursos Humanos
+80419315,Miguel,Cruz Flores,334727775,M,1119.00,Finanzas
+67064286,IVAN,Lopez Robleto,978158588,M,3295.00,Dirección Estratégica
+85580798,DARIO,Soplapuco Heredia,979491907,M,4016.00,Estrategia y Planificación
+96440381,MARIA VICTORIA,CARDENAS CRUZ,978249994,F,4179.00,Marketing
+13732401,Manuel,Sánchez Flores,914463955,M,2012.00,Tecnologías de la Información (TI)
+88480296,Carlos,Pérez Mendoza,637393715,M,3970.00,Recursos Humanos
+10754689,Fernando,Sánchez Morales,845210056,M,5000.00,Tecnologías de la Información (TI)
+16664664,Jorge,García Flores,526494002,M,4493.00,Recursos Humanos
+81193527,NEREA,Vasquez Mendez,978526091,F,4250.00,Calidad
+16366601,Claudia,López Mendoza,317217409,F,2665.00,Logística
+62209323,Fernando,González Castillo,803344999,M,2024.00,Marketing
+70632622,Manuel,Martínez Torres,741650936,M,791.00,Producción
+18133920,Miguel,López Ortiz,719565276,M,2506.00,Recursos Humanos
+34464251,Jorge,Sánchez Flores,494410799,M,3585.00,Producción
+40038695,Lucía,González Gómez,447762911,F,2302.00,Contabilidad
+38362747,Luis,Rodríguez Torres,305859824,M,529.00,Desarrollo de Producto
+71653647,Pedro,López Torres,620603824,M,2546.00,Administración General
+99638751,María,López Suárez,856594679,F,2510.00,Desarrollo de Producto
+87818207,DIANA,Lorenzo Ortega,976246908,F,3413.00,Calidad
+66053325,Carmen,Sánchez Torres,499837922,F,4223.00,Finanzas
+43123331,Laura,González Ortiz,788721233,F,5000.00,Tecnologías de la Información (TI)
+71919204,Lucía,Cruz Suárez,671341371,F,4033.00,Comunicación Corporativa
+21002917,Carlos,Pérez Ramos,193539429,M,4239.00,Tecnologías de la Información (TI)
+43202977,José,González Flores,977609398,M,1739.00,Desarrollo de Producto
+95457573,Rayan,Hoyos Gutierrez,976550877,M,1336.00,Legal
+75068040,Miguel,Martínez Morales,236259726,M,2845.00,Contabilidad
+82446063,Francisco,Rodríguez Gómez,845895484,M,2791.00,Calidad
+74242582,Jorge,González Ramos,985767555,M,4087.00,Comunicación Corporativa
+91485920,NURIA,Alvarado Tolentino,976232342,F,4453.00,Compras
+34685682,Claudia,Martínez Suárez,630916065,F,1276.00,Producción
+60565673,ALICIA,Morfín López,978613373,F,1965.00,Ventas
+10740899,Manuel,Cruz Torres,312912039,M,1100.00,Ventas
+55306414,Carlos,Fernández Morales,185062459,M,2627.00,Compras
+52377330,Claudia,García Chávez,635257908,F,885.00,Mantenimiento
+86532241,Laura,González Ramos,536698244,F,3618.00,Logística
+206724801,Jorge,González Chávez,480304447,M,2763.00,Estrategia y Planificación
+76633559,Jose,Winch Zapata,976283068,M,2300.00,Investigación y Desarrollo (I+D)
+68704232,Luis,González Suárez,910392325,M,979.00,Compras
+14658379,Ana,Sánchez Flores,654241717,F,5000.00,Recursos Humanos
+79900000,Marcos,Waitsman Rodas,976264312,M,2500.00,Investigación y Desarrollo (I+D)
+41308879,Francisco,López Morales,681237307,M,1390.00,Ventas
+46311431,GUILLERMO,Gallardo Valderrana,979824307,M,2659.00,Administración General
+35110104,Carmen,López Morales,776167933,F,2637.00,Finanzas
+86125554,SEBASTIAN,Morera Aguilar,979144996,M,2965.00,Estrategia y Planificación
+11462090,María,González Castillo,166550547,F,2811.00,Contabilidad
+96428170,Carmen,Fernández Torres,546011469,F,3217.00,Finanzas
+78415382,SANTIAGO,rodriguez burgos,976671681,M,3288.00,Producción
+41904216,Luis,Pérez Gómez,598318409,M,1847.00,Legal
+17821722,Patricia,Sánchez Ortiz,188818554,F,2587.00,Atención al Cliente
+61596573,Laura,Rodríguez Gómez,611294282,F,1246.00,Seguridad y Salud Ocupacional
+82995324,Carmen,Cruz Suárez,719354527,F,617.00,Responsabilidad Social Corporativa
+54475145,María,Pérez Flores,365570588,F,519.00,Marketing
+41668485,MARCO,Vásquez Guerra,977696018,M,4786.00,Administración General
+59492089,Juan,Ramírez Castillo,159806244,M,2710.00,Comunicación Corporativa
+60928729,Manuel,González Gómez,801150296,M,4518.00,Contabilidad
+30557544,Claudia,López Suárez,190205124,F,1717.00,Mantenimiento
+81747405,RAFAEL,Lluen Ballena,976502828,M,1492.00,Finanzas
+27400421,Patricia,Sánchez Castillo,763093406,F,989.00,Finanzas
+83903597,JOSE MARIA,Rodriguez Pardo,979817232,M,3560.00,Producción
+78020304,Andrea,Wodman Saucedo,976263599,F,4300.00,Administración General
+16141321,Mario,Palacios Morales,"None",M,2570.00,Dirección Estratégica
+56838031,Ana,Martínez Castillo,641734003,F,3259.00,Estrategia y Planificación
+21306171,CARMEN,Hernández Carreon,979062352,F,3155.00,Desarrollo de Producto
+88566634,Álex,Rodas Arias,976803642,M,1907.00,Desarrollo de Producto
+48796660,José,Sánchez Flores,915729820,M,2079.00,Marketing
+54577576,Luis,González Ortiz,308162283,M,2799.00,Desarrollo de Producto
+28984531,Francisco,Rodríguez Suárez,119916847,M,3843.00,Producción
+60255252,JUANA,Siesquen Valdivia,978172099,F,2642.00,Legal
+31469586,Sofía,Martínez Ramos,822388124,F,1119.00,Contabilidad
+22637876,Miguel,Sánchez Mendoza,546331173,M,3128.00,Seguridad y Salud Ocupacional
+62205269,José,Cruz Mendoza,124904154,M,1293.00,Estrategia y Planificación
+58815297,JOSE RAMON,Ubillús Verona,976704751,M,3626.00,Calidad
+21323273,Pol,Zavala Fuentes,979272884,M,4571.00,Producción
+32150068,Carmen,Rodríguez Gómez,486674261,F,4488.00,Tecnologías de la Información (TI)
+91988920,Fernando,Rodríguez Mendoza,489127664,M,3134.00,Calidad
+85945829,Fernando,Fernández Torres,379325684,M,3730.00,Comunicación Corporativa
+10086630,Ana,González Ramos,620602481,F,2013.00,Responsabilidad Social Corporativa
+27843038,Pedro,González Flores,362122275,M,859.00,Finanzas
+87660611,JOAQUIN,Bardales Bueno,976873213,M,4396.00,Tecnologías de la Información (TI)
+88841564,INMACULADA,Sarabia López,975755655,F,4087.00,Contabilidad
+89135914,MARTINA,Cetino Crúz,976411638,F,3748.00,Recursos Humanos
+91647569,Gabriela,Fernández Gómez,782393130,F,531.00,Contabilidad
+59183348,ALFONSO,Tezen Cabrejos,977545715,M,2907.00,Compras
+13035605,MARINA,Bustamante Vasquez,978905932,F,1767.00,Compras
+66008410,Luis,González Morales,582715545,M,2859.00,Estrategia y Planificación
+66094273,Miguel,González Mendoza,473129172,M,2581.00,Logística
+33576523,Carlos,Rodríguez Ramos,847543700,M,4093.00,Recursos Humanos
+39819278,Lucía,Cruz Flores,232829973,F,2253.00,Seguridad y Salud Ocupacional
+95756176,Juan,Fernández Morales,305835842,M,1021.00,Seguridad y Salud Ocupacional
+48613676,PAULA,PACOTAYPE HUAMAN,978185078,F,2618.00,Recursos Humanos
+99256881,Carlos,Fernández Mendoza,892124113,M,4266.00,Tecnologías de la Información (TI)
+61638774,Carmen,Martínez Gómez,961894764,F,1630.00,Investigación y Desarrollo (I+D)
+30564869,Lucía,Sánchez Mendoza,119003457,F,5000.00,Seguridad y Salud Ocupacional
+89916759,ANA,Ortiz Hernández,976175310,F,1567.00,Legal
+86408337,Sofía,Sánchez Ortiz,944837868,F,1621.00,Mantenimiento
+10940362,Fernando,Martínez Castillo,851918070,M,1783.00,Seguridad y Salud Ocupacional
+35219068,Jorge,López Ramos,314846829,M,1581.00,Tecnologías de la Información (TI)
+77485731,Pedro,López Ramos,346454092,M,1247.00,Recursos Humanos
+63017344,Claudia,Pérez Castillo,760120939,F,2806.00,Contabilidad
+91311704,ALEX,SAUCEDO CULQUI,975619768,M,1827.00,Legal
+15705295,Laura,Sánchez Morales,457532460,F,5000.00,Marketing
+40820003,Pedro,Rodríguez Mendoza,132472018,M,3491.00,Marketing
+80219934,José,Rodríguez Flores,533577592,M,2840.00,Marketing
+59689641,Juan,González Ortiz,557404514,M,2234.00,Legal
+61374829,Luis,García Flores,414870558,M,5000.00,Ventas
+22512942,Ana,Ramírez Morales,240929886,F,4371.00,Atención al Cliente
+58727005,Claudia,Martínez Torres,929708413,F,4567.00,Desarrollo de Producto
+75157134,EMILIO,Roman Valentin,978900972,M,4493.00,Legal
+33865858,Miguel,Pérez Morales,297350623,M,1401.00,Tecnologías de la Información (TI)
+75449644,Samuel,JESUS CERVERA,977827379,M,3530.00,Ventas
+64903731,Manuel,López Morales,348788992,M,1812.00,Responsabilidad Social Corporativa
+85376274,Juan,Sánchez Morales,106066983,M,1327.00,Seguridad y Salud Ocupacional
+58138783,Pedro,Sánchez Torres,756324651,M,5000.00,Seguridad y Salud Ocupacional
+74584867,José,López Ortiz,511312097,M,1794.00,Legal
+47496768,VERONICA,Calero Maila,975935142,F,2936.00,Dirección Estratégica
+69713938,MONTSERRAT,DIAZ VASQUEZ,975848338,F,2209.00,Finanzas
+94274070,Lucía,Ramírez Torres,933144054,F,4237.00,Estrategia y Planificación
+86713562,JOSE,CARBAJAL HUAMAN,979553524,F,4301.00,Finanzas
+72451729,MONTSERRAT,Loza Lluco,977178756,F,2536.00,Administración General
+44205691,Juan,Pérez Torres,974844384,M,1669.00,Contabilidad
+58934841,Álvaro,Villibord Almendares,978970695,M,2040.00,Compras
+56500540,Miguel,Cruz Gómez,209091954,M,852.00,Tecnologías de la Información (TI)
+40200959,Isabel,Sánchez Mendoza,534752544,F,858.00,Investigación y Desarrollo (I+D)
+65940294,BEGOÑA,Rosales Melgar,977035348,F,2251.00,Investigación y Desarrollo (I+D)
+38567310,Ángel,Beltrán Bravo,977820539,M,4631.00,Compras
+82780366,Pedro,González Morales,247606558,M,1020.00,Dirección Estratégica
+53078141,José,Pérez Mendoza,600398744,M,3140.00,Contabilidad
+42223658,Ana,Ramírez Flores,504481489,F,5000.00,Responsabilidad Social Corporativa
+80785302,Carmen,González Ramos,843387232,F,4662.00,Contabilidad
+97389002,Ana,Pérez Ortiz,605276125,F,4694.00,Desarrollo de Producto
+85907030,ELENA,Zamora Sanchez,976534872,F,3902.00,Recursos Humanos
+59743359,José,Cruz Torres,249688888,M,5000.00,Recursos Humanos
+27354441,Sofía,López Torres,382372241,F,4186.00,Mantenimiento
+40067405,EDUARDO,Vasquez Tafur,978885968,M,1255.00,Recursos Humanos
+99557320,Manuel,Pérez Chávez,171462684,M,1893.00,Desarrollo de Producto
+45361492,LORENA,Esparza Martínez,976134545,F,3570.00,Ventas
+12119315,Carmen,Martínez Torres,690085722,F,2616.00,Estrategia y Planificación
+81178915,TOMAS,RIVERA VALVERDE,976092529,M,2025.00,Finanzas
+12429728,Jorge,Sánchez Castillo,703712772,M,926.00,Compras
+85137559,Pedro,Rodríguez Chávez,759983485,M,1472.00,Ventas
+91036671,Carmen,García Suárez,780248206,F,3457.00,Recursos Humanos
+80264927,Luis,Sánchez Chávez,352065487,M,1465.00,Ventas
+55192314,AURORA,Quiroz Montoya,976178334,F,3788.00,Dirección Estratégica
+74159194,Jorge,Martínez Flores,196255814,M,2388.00,Calidad
+60296674,AARON,GAMARRA HERRERA,978622942,M,1915.00,Atención al Cliente
+44444966,Lucía,García Ortiz,793674536,F,1678.00,Recursos Humanos
+88915458,DANIEL,Echeverria Mendez,978013054,M,1882.00,Administración General
+72919351,MAR,Ferrero López,977110154,F,4600.00,Recursos Humanos
+25719029,SALVADOR,SANDI UREÑA,979920428,M,1577.00,Contabilidad
+55214789,Lucía,Pérez Gómez,892999838,F,863.00,Estrategia y Planificación
+59912462,Fernando,González Ramos,710526212,M,1044.00,Seguridad y Salud Ocupacional
+55153026,XAVIER,Abanto Guerrero,978666621,M,4028.00,Desarrollo de Producto
+67621290,Pau,Cho Diaz,979779363,M,1585.00,Logística
+42460753,Claudia,González Chávez,121770070,F,2987.00,Producción
+52213292,ENCARNACION,Tenesaca Lliviganay,978021047,F,2660.00,Tecnologías de la Información (TI)
+64045938,Ana,Pérez Mendoza,296578716,F,3523.00,Seguridad y Salud Ocupacional
+38237755,Claudia,López Flores,108285692,F,3692.00,Mantenimiento
+96402435,Juan,López Gómez,470782924,M,4195.00,Producción
+59624049,Mario,Vasquez amaya,978701266,M,3386.00,Calidad
+60950605,GREGORIO,Vasquez Guivar,979901969,M,1396.00,Marketing
+40145350,Juan,Pérez Morales,420051598,M,1730.00,Calidad
+13791844,Luis,Ramírez Suárez,617445900,M,4398.00,Atención al Cliente
+14170984,Miguel,Cruz Torres,623189782,M,762.00,Responsabilidad Social Corporativa
+93121214,BORJA,LUCERO HERNÁNDEZ,976084076,M,1913.00,Ventas
+62921992,Carlos,Cruz Ramos,563154004,M,4166.00,Tecnologías de la Información (TI)
+24462420,Ana,Rodríguez Gómez,953819606,F,3836.00,Desarrollo de Producto
+95633073,Pedro,Cruz Ramos,579416693,M,2639.00,Logística
+91818056,IKER,Pisfil Agapito,976613658,M,5000.00,Atención al Cliente
+59398106,SEBASTIAN,Suxe Correa,979683273,M,4165.00,Desarrollo de Producto
+90197569,EMILIA,Acuna Narvaez,977900165,F,4181.00,Logística
+51103347,Francisco,Rodríguez Castillo,739043580,M,3288.00,Investigación y Desarrollo (I+D)
+39406424,CATALINA,Garzón Gaona,978653371,F,4300.00,Investigación y Desarrollo (I+D)
+29372772,Héctor,Stucchi Chamba,976233089,M,5000.00,Recursos Humanos
+91733605,Luis,Ramírez Torres,409654606,M,2886.00,Contabilidad
+14256060,Juan,López Suárez,377281438,M,5000.00,Comunicación Corporativa
+14481286,Carmen,Ramírez Castillo,970785457,F,3981.00,Administración General
+99203654,Juan,López Suárez,215422628,M,1235.00,Marketing
+66828275,Pedro,Martínez Morales,735950331,M,2629.00,Responsabilidad Social Corporativa
+28922463,Luis,López Ramos,189938682,M,4230.00,Desarrollo de Producto
+14072582,Lucía,Sánchez Mendoza,352381401,F,1733.00,Seguridad y Salud Ocupacional
+25600496,Carlos,Angeles Bonilla,976421687,M,3741.00,Administración General
+40940061,Carlos,Pérez Morales,194612417,M,2265.00,Seguridad y Salud Ocupacional
+30017126,Luis,Ramírez Chávez,422813958,M,3894.00,Producción
+61235476,SANDRA,Orenda Lopez,976696513,F,1946.00,Legal
+48938194,Juan,Sánchez Ortiz,891568451,M,1596.00,Marketing
+22915214,Fernando,García Flores,618384567,M,4064.00,Comunicación Corporativa
+16476854,Miguel,Fernández Torres,661770149,M,4358.00,Dirección Estratégica
+18997513,Carlos,González Ramos,521662224,M,1473.00,Ventas
+71930324,Amir,perez cmapos,976520200,M,4245.00,Finanzas
+39464134,Juan,López Gómez,238666168,M,1068.00,Estrategia y Planificación
+11821284,ALEXANDER,Mego Fernández,977911350,M,1414.00,Investigación y Desarrollo (I+D)
+92995968,Axel,Estrella León,975584506,M,2382.00,Ventas
+51935660,MOHAMMED,Leyton Neciosup,979759204,M,2399.00,Marketing
+78152545,Miguel,Pérez Flores,955440145,M,2034.00,Compras
+61766319,María,López Chávez,109383021,F,1530.00,Ventas
+17890705,Isabel,Sánchez Torres,801344920,F,3221.00,Calidad
+60532767,Carlos,Fernández Ortiz,923099421,M,2496.00,Investigación y Desarrollo (I+D)
+62780652,CHRISTIAN,Chafloque Navarro,975743390,M,1304.00,Contabilidad
+13222746,Thiago,Fuentes Antezana,979104287,M,4559.00,Administración General
+56199701,Patricia,Cruz Mendoza,986316121,F,697.00,Logística
+34461380,LUIS MIGUEL,Torres Amari,977152311,M,4524.00,Marketing
+32757608,Manuel,Cruz Suárez,138806921,M,3082.00,Tecnologías de la Información (TI)
+59002888,Laura,Fernández Chávez,280587394,F,2155.00,Atención al Cliente
+25504738,Luis,Martínez Gómez,634530944,M,4348.00,Administración General
+54273095,Isaac,BENITEZ LOPEZ,977616155,M,2729.00,Estrategia y Planificación
+98004116,María,Fernández Mendoza,685805208,F,1672.00,Compras
+83003830,Luis,Ramírez Gómez,339694103,M,3388.00,Dirección Estratégica
+61197551,Pedro,López Castillo,334279049,M,1539.00,Compras
+18517481,NURIA,Huaynate LLanos,976048679,F,1887.00,Tecnologías de la Información (TI)
+22824450,Juan,Martínez Chávez,314396696,M,2410.00,Legal
+13753732,María,Rodríguez Chávez,664458623,F,2459.00,Finanzas
+83795269,José,Sánchez Torres,219849038,M,4665.00,Mantenimiento
+99191841,José,Martínez Suárez,401248415,M,4261.00,Contabilidad
+11786861,Jorge,López Gómez,347615500,M,1307.00,Administración General
+76737422,Claudia,Cruz Flores,263587375,F,730.00,Mantenimiento
+4193E2156,JULIAN,Varela Vallejo,975650995,M,3899.00,Estrategia y Planificación
+88993239,SALVADOR,TAFUR CALLIRGOS,977769466,M,2415.00,Administración General
+74474908,Manuel,Fernández Suárez,249980696,M,2048.00,Dirección Estratégica
+33263673,Claudia,Martínez Ortiz,457421563,F,3998.00,Ventas
+30062982,Martí,Lama-Noriega Galve,975825531,M,2789.00,Estrategia y Planificación
+79160728,EVA,Simisterra Huila,978381377,F,1862.00,Dirección Estratégica
+12636203,Francisco,Ramírez Flores,606958734,M,446.00,Seguridad y Salud Ocupacional
+54243423,Jaime,Botello Fernandez,976281222,M,5000.00,Dirección Estratégica
+84604929,Luis,Pérez Ortiz,882990413,M,4176.00,Atención al Cliente
+57988091,Francisco,López Mendoza,142953762,M,2919.00,Desarrollo de Producto
+78283523,Noah,Chanamé Flores,979684625,M,3730.00,Compras
+53056238,MARIA TERESA,CERVANTES PARVINA,978484059,F,2824.00,Marketing
+79432620,LIDIA,Noguera Molina,976125074,F,3081.00,Atención al Cliente
+68774052,ADRIANA,Moncada Montoya,977698075,F,4191.00,Desarrollo de Producto
+11918264,Juan,Ramírez Chávez,570057203,M,944.00,Ventas
+33440277,Isabel,Fernández Mendoza,763726202,F,3379.00,Legal
+83038257,Miguel,González Suárez,683902504,M,2647.00,Atención al Cliente
+23723610,RAMON,Vilchez Bances,976353271,M,3581.00,Administración General
+54359312,Ana,García Mendoza,329916097,F,870.00,Comunicación Corporativa
+85404008,Víctor,Navarro Díaz,976565072,M,5000.00,Tecnologías de la Información (TI)
+93490866,CONSUELO,Ramirez Gutierrez,975652042,F,4329.00,Administración General
+47414820,Carlos,Pérez Gómez,989976994,M,5000.00,Tecnologías de la Información (TI)
+54004151,Carlos,Cruz Ortiz,926644698,M,2267.00,Estrategia y Planificación
+66826931,Juan,Cruz Gómez,518377014,M,3140.00,Administración General
+18966913,Jorge,Ramírez Mendoza,528622583,M,3721.00,Atención al Cliente
+31890968,ROCIO,CARRASCO VALENCIA,979803364,F,3757.00,Atención al Cliente
+50321503,Laura,González Morales,601100366,F,2430.00,Desarrollo de Producto
+59008516,OSCAR,Monsalve Rodriguez,978761931,M,2024.00,Logística
+72583547,Claudia,García Ortiz,476714663,F,1293.00,Logística
+96179938,MANUEL,VIDAURRE ARENAS,977911200,M,3151.00,Marketing
+81230291,ANA,Villa Rodríguez,976271257,F,3334.00,Desarrollo de Producto
+96325087,RAFAEL,Delgado Muñoz,977444667,M,2319.00,Tecnologías de la Información (TI)
+70762020,NIEVES,Manzo Martínez,979901114,F,1486.00,Tecnologías de la Información (TI)
+37396789,Ana,García Suárez,859448818,F,2879.00,Tecnologías de la Información (TI)
+96000492,Francisco,García Gómez,488605005,M,3312.00,Ventas
+54459280,Luis,Martínez Castillo,935051512,M,403.00,Finanzas
+72410495,Gabriela,López Morales,203261269,F,495.00,Calidad
+81722237,Miguel,González Ortiz,402265857,M,3120.00,Mantenimiento
+15329495,Claudia,Martínez Gómez,683551841,F,3096.00,Investigación y Desarrollo (I+D)
+88133794,Miguel,Pérez Torres,668139892,M,629.00,Logística
+51592887,Gabriela,Martínez Suárez,511375963,F,5000.00,Mantenimiento
+64037962,Juan,Martínez Torres,270137508,M,4637.00,Contabilidad
+94212588,Lucía,Martínez Chávez,678454232,F,3496.00,Recursos Humanos
+17808252,Claudia,González Morales,235922309,F,4621.00,Administración General
+13069763,Ana,González Flores,118444301,F,3875.00,Comunicación Corporativa
+95204022,Gabriela,Cruz Torres,323955137,F,4292.00,Marketing
+90134839,MARIA SOLEDAD,Arias Gutiérrez,978016816,F,4204.00,Estrategia y Planificación
+70888668,MARIA MERCEDES,CASTILLO CORDOVA,978479093,F,4235.00,Tecnologías de la Información (TI)
+12749057,Carlos,González Mendoza,768842702,M,5000.00,Ventas
+14333638,Sergio,MENESES CAICEDO,978773987,M,1693.00,Administración General
+40711821,Gabriela,González Mendoza,187140800,F,2402.00,Dirección Estratégica
+21233007,ANTONIO,Robles Marte,979552581,M,1206.00,Investigación y Desarrollo (I+D)
+69844438,Claudia,Pérez Suárez,733760679,F,2233.00,Atención al Cliente
+12726062,Carmen,Sánchez Torres,601571428,F,477.00,Responsabilidad Social Corporativa
+16053850,Pedro,Ramírez Morales,501958782,M,1185.00,Mantenimiento
+26768020,MARTINA,Cruz Molina,976935591,F,3404.00,Ventas
+56548686,Francisco,García Ramos,675013619,M,3277.00,Finanzas
+21982901,VICTORIA,Arauz Huite,978027672,F,4401.00,Legal
+23508534,Pedro,Rodríguez Chávez,735665257,M,4527.00,Mantenimiento
+42984402,Jorge,Martínez Castillo,212278628,M,5000.00,Desarrollo de Producto
+88774060,Laura,Fernández Castillo,732260179,F,644.00,Compras
+97953728,Sofía,Pérez Ramos,849402000,F,1363.00,Tecnologías de la Información (TI)
+55099094,Miguel,Ramírez Castillo,158758455,M,5000.00,Legal
+43568147,Miguel,Martínez Gómez,179040703,M,915.00,Marketing
+71054413,ROSA MARIA,Guevara silva,976601745,F,4003.00,Compras
+75963777,Miguel,Fernández Gómez,485321420,M,3569.00,Calidad
+28278795,Luis,Sánchez Torres,435838654,M,4927.00,Administración General
+23726065,Íker,Vejarano Cerna,977137221,M,4041.00,Producción
+52193940,Jon,falcon lopez,977723162,M,1863.00,Calidad
+50481874,Miguel,Cruz Mendoza,657968546,M,1793.00,Atención al Cliente
+33141560,Lucas,Guevara Acuña,975874059,M,4116.00,Marketing
+98482275,Alonso,Hernández Gutiérrez,977929251,M,1821.00,Recursos Humanos
+64144703,Luis,López Castillo,652023397,M,3293.00,Estrategia y Planificación
+53117401,Lucía,Sánchez Chávez,881068286,F,3084.00,Producción
+34529473,ADRIANA,Gamboa Gutierrez,975986473,F,3451.00,Producción
+31598097,Carmen,Martínez Ortiz,403973392,F,4145.00,Estrategia y Planificación
+68223476,MARCOS,Arce Tejada,976217072,M,4071.00,Logística
+96168335,Unai,González Eyeyo,976971846,M,1601.00,Logística
+13356622,ROSARIO,CHAPOÑAN VALDERA,976475487,F,2352.00,Administración General
+10037680,Isabel,Martínez Torres,908999484,F,3545.00,Comunicación Corporativa
+54451564,María,López Suárez,181876748,F,1248.00,Estrategia y Planificación
+36714971,Ana,Rodríguez Ortiz,307275723,F,435.00,Dirección Estratégica
+70948068,Carmen,Pérez Ortiz,522535320,F,1549.00,Atención al Cliente
+49165440,Claudia,Rodríguez Castillo,885683591,F,4570.00,Ventas
+70565658,José,Martínez Ramos,168575496,M,602.00,Administración General
+81806666,Francisco,Cruz Chávez,341177650,M,3475.00,Contabilidad
+24887349,Sofía,Fernández Morales,383088512,F,3982.00,Tecnologías de la Información (TI)
+79983639,HECTOR,Cabrera Acuña,977316985,M,3638.00,Recursos Humanos
+62216482,Manuel,Cruz Torres,124646703,M,3946.00,Comunicación Corporativa
+67040464,MARIA,Llontop Pacherrez,976293201,F,2704.00,Legal
+75122799,Gabriela,González Castillo,448144499,F,3249.00,Investigación y Desarrollo (I+D)
+33370571,Francisco,Fernández Castillo,555847878,M,4465.00,Calidad
+85358232,Manuel,Martínez Suárez,283490811,M,2482.00,Estrategia y Planificación
+72049774,Jorge,González Suárez,362435773,M,1528.00,Desarrollo de Producto
+97885384,Jorge,Fernández Flores,183910641,M,3055.00,Atención al Cliente
+14787115,XAVIER,Pazos Anezana,979679733,M,2652.00,Logística
+44935789,Miguel,Pérez Gómez,287032404,M,1222.00,Tecnologías de la Información (TI)
+92535364,Mateo,ARIZA ACEVEDO,979180589,M,3050.00,Tecnologías de la Información (TI)
+61551568,Laura,Martínez Chávez,622957531,F,1166.00,Recursos Humanos
+81465089,José,Rodríguez Flores,572255177,M,4637.00,Ventas
+22878595,Pedro,Pérez Mendoza,266527085,M,2977.00,Estrategia y Planificación
+45751280,María,Ramírez Ortiz,645197955,F,1694.00,Desarrollo de Producto
+34572457,Ana,González Ortiz,239595734,F,4072.00,Logística
+51477549,Jorge,López Chávez,608119618,M,2322.00,Legal
+30334037,LUCAS,Ordoñez Cortez,979804513,M,1620.00,Investigación y Desarrollo (I+D)
+83230266,Pedro,Rodríguez Suárez,732190626,M,3256.00,Calidad
+27769047,Fernando,Cruz Ramos,819188333,M,1508.00,Finanzas
+52826584,MARIO,PERALTA BUSTAMANTE,977226512,M,1652.00,Atención al Cliente
+27532077,Manuel,López Ramos,490932364,M,1310.00,Dirección Estratégica
+88974435,José,Sánchez Morales,662723231,M,1888.00,Atención al Cliente
+98087062,JULIO,Cruz Valle,976612960,M,2460.00,Desarrollo de Producto
+28951543,María,Pérez Ortiz,230514358,F,4268.00,Finanzas
+60065483,Juan,Martínez Torres,904671160,M,2956.00,Contabilidad
+16787206,MARTIN,Hernandez Valdez,976779260,M,3174.00,Logística
+17874359,Laura,Martínez Chávez,614661330,F,1158.00,Desarrollo de Producto
+10975324,Ana,Cruz Castillo,149545234,F,4007.00,Finanzas
+47230891,VICTOR MANUEL,GUERRERO ALTAMIRANO,975668841,M,1261.00,Contabilidad
+60415336,Francisco,Fernández Flores,687235359,M,1948.00,Finanzas
+48620934,Ana,Fernández Chávez,666933416,F,433.00,Calidad
+96762941,ESTHER,Zarate Corona,976478599,F,2071.00,Compras
+24974320,Pedro,Cruz Suárez,273546463,M,1046.00,Logística
+47699870,Gabriela,Rodríguez Suárez,147253726,F,5000.00,Compras
+18496039,JORDI,Solano Torres,977880986,M,1693.00,Dirección Estratégica
+63891663,Sofía,Fernández Gómez,442627499,F,2679.00,Recursos Humanos
+70013846,VICTORIA,Castro Fernandez,976036531,F,4056.00,Estrategia y Planificación
+26902920,JUAN LUIS,Bonilla Anton,978173828,M,1497.00,Marketing
+98278660,Miguel,González Torres,325669142,M,2401.00,Marketing
+73206958,Juan,Rodríguez Gómez,371560326,M,5000.00,Calidad
+49547825,Carlos,Rodríguez Castillo,283282167,M,711.00,Mantenimiento
+85176267,Francisco,Rodríguez Suárez,654589303,M,4201.00,Mantenimiento
+30253072,José,López Flores,888307415,M,3661.00,Ventas
+99834322,LORENZO,rebaza guzman,977140128,M,4328.00,Desarrollo de Producto
+44832679,Carmen,Pérez Ramos,127099791,F,2175.00,Mantenimiento
+94447933,Claudia,Martínez Ramos,523853907,F,4303.00,Comunicación Corporativa
+91559574,Carmen,Rodríguez Torres,103367601,F,5000.00,Marketing
+29824666,JOSEP,MEDINA AGURTO,975584714,M,4643.00,Marketing
+68334933,Jorge,Cruz Mendoza,892197646,M,3628.00,Tecnologías de la Información (TI)
+85488996,Fernando,Pérez Ortiz,735700145,M,2793.00,Contabilidad
+22922577,MONICA,Navas López,977219321,F,2167.00,Calidad
+45362194,Juan,Sánchez Castillo,722882949,M,767.00,Seguridad y Salud Ocupacional
+48474078,Patricia,Sánchez Morales,893859496,F,3226.00,Estrategia y Planificación
+59947713,Claudia,Rodríguez Castillo,328903032,F,3276.00,Estrategia y Planificación
+32004636,Juan,Ramírez Ortiz,979749817,M,2375.00,Finanzas
+58330342,SARA,RAMIREZ SANCHEZ,978678009,F,4546.00,Finanzas
+48129672,Fernando,García Chávez,899093667,M,3137.00,Atención al Cliente
+21527500,Luis,Rodríguez Gómez,964597184,M,594.00,Desarrollo de Producto
+15357702,Miguel,Sánchez Gómez,407779191,M,2690.00,Calidad
+88665241,Pedro,Martínez Suárez,761468647,M,3461.00,Legal
+12383139,SERGIO,García Murillo,975561913,M,3883.00,Logística
+16812991,ANTONIA,ESPINOZA HERRERA,977209260,F,1897.00,Logística
+65325519,CRISTINA,Rodríguez Hernández,976557610,F,2693.00,Legal
+48181736,Lucía,Fernández Torres,439728412,F,1957.00,Atención al Cliente
+61207238,Ana,Cruz Torres,864749783,F,2832.00,Contabilidad
+22456187,ASUNCION,Meneses Mendez,977901190,F,2744.00,Tecnologías de la Información (TI)
+82675351,DIEGO,De la Cruz Barrios,976582801,M,1802.00,Legal
+35545856,José,García Suárez,938712499,M,1982.00,Estrategia y Planificación
+39947302,ALEXANDRA,Gallego Osorio,978925896,F,4730.00,Investigación y Desarrollo (I+D)
+95484595,FRANCISCO,Arevalo Mendoza,977478340,M,3844.00,Atención al Cliente
+74729201,José,García Ortiz,572304116,M,3367.00,Contabilidad
+10806239,Lucía,Fernández Flores,249481349,F,615.00,Mantenimiento
+57576074,ENCARNACION,casiano vargas,979967228,F,3264.00,Marketing
+38146716,Luis,Cruz Flores,368445378,M,1670.00,Ventas
+59181503,Isabel,García Castillo,912451337,F,2258.00,Contabilidad
+53763810,Isabel,Sánchez Torres,854602433,F,4179.00,Atención al Cliente
+36368158,Arnau,Jocol López,977740640,M,1345.00,Ventas
+67116821,Fernando,Cruz Castillo,315192244,M,650.00,Atención al Cliente
+26906710,Sofía,López Gómez,415758786,F,3503.00,Seguridad y Salud Ocupacional
+40362201,Lucía,López Castillo,583600966,F,1630.00,Mantenimiento
+79084196,Carmen,Rodríguez Gómez,892884981,F,3375.00,Ventas
+58492371,CLARA,Romero Mendez,977078050,F,1596.00,Logística
+65461268,JONATHAN,Fernández Navarro,976750099,M,2111.00,Producción
+70543402,ROSARIO,Chancafe Huaman,977692459,F,2897.00,Desarrollo de Producto
+35568745,Sofía,Sánchez Ramos,404706944,F,2562.00,Compras
+61357611,Laura,García Ortiz,239074376,F,1080.00,Estrategia y Planificación
+75047773,Laura,Sánchez Mendoza,785981230,F,5000.00,Legal
+62616012,CARLOS,Ramos Mesas,976448204,M,3142.00,Marketing
+64799996,Laura,García Chávez,834106398,F,1100.00,Tecnologías de la Información (TI)
+06895647,María,Perales Martos,976243758,F,2000.00,Dirección Estratégica
+58401720,Laura,Martínez Torres,515651910,F,2375.00,Calidad
+60425405,LUISA,Salazar Herrera,978505517,F,2147.00,Finanzas
+13906950,José,Pérez Flores,101964472,M,3815.00,Logística
+94317857,Gabriela,González Ramos,878935714,F,1560.00,Marketing
+58198621,Carlos,López Castillo,482145488,M,4474.00,Tecnologías de la Información (TI)
+13361878,FRANCISCO JOSE,Farroñan torres,978290464,M,2584.00,Finanzas
+32227133,RAQUEL,Guevara Sifuentes,977438228,F,3255.00,Dirección Estratégica
+27802156,JULIO,Chapoñan Cajusol,979842052,M,3093.00,Producción
+58194327,Carmen,Sánchez Suárez,568418365,F,4226.00,Desarrollo de Producto
+14161335,Jazmín,Valdés Quispe,"None",F,4300.00,Administración General
+12163798,Ahmed,Jabbar Lopez,976341245,M,2500.00,Administración General
+22634777,Miguel,Sánchez Ortiz,231114075,M,3919.00,Ventas
+72053785,PABLO,Baldera Soto,977293312,M,2571.00,Producción
+49689255,Sofía,Ramírez Gómez,111783501,F,926.00,Compras
+787c488359,JOSE CARLOS,Silva Aguilar,979185323,M,2155.00,Finanzas
+65887308,MARCOS,Ramirez Cabanillas,979323765,M,1683.00,Tecnologías de la Información (TI)
+78593712,Francisco,Sánchez Castillo,666013902,M,4066.00,Estrategia y Planificación
+65625905,Juan,Rodríguez Suárez,630629374,M,3635.00,Estrategia y Planificación
+29474939,PILAR,SAMILLAN SIMARRA,979909285,F,2871.00,Legal
+39287581,FRANCISCO JAVIER,Carpio Mendoza,978761221,M,3671.00,Administración General
+76666245,María,Fernández Morales,325065914,F,1477.00,Compras
+80969239,Juan,Pérez Gómez,653990250,M,2992.00,Producción
+50188181,Fernando,Rodríguez Flores,627209291,M,3246.00,Legal
+38145407,Patricia,Sánchez Flores,124684978,F,2090.00,Calidad
+46614812,Claudia,González Castillo,937886045,F,3591.00,Producción
+53117401,Lucía,Sánchez Chávez,881068286,F,3084.00,Producción
+84241671,Miguel,Ramírez Mendoza,156467877,M,532.00,Estrategia y Planificación
+32127830,Miguel,Ramírez Ramos,907227802,M,1094.00,Recursos Humanos
+88500107,Lucía,Martínez Ramos,380088534,F,1470.00,Producción
+18377372,Patricia,Sánchez Ortiz,530512346,F,2906.00,Ventas
+86064015,Claudia,Cruz Ortiz,167420756,F,2118.00,Ventas
+24110749,Miguel,Martínez Suárez,269590704,M,1394.00,Legal
+16171890,Alicia,Zapata Torrealba,"None",F,2500.00,Administración General
+18162345,Pedro,Díaz Marquina,"None",M,2570.00,None

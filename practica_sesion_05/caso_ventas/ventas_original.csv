@@ -1,0 +1,21 @@
+id,fecha,producto,categoria,cantidad,precio_unitario
+1,2023-10-01,Laptop XYZ,Electrónica,5,1200
+2,2023-10-01,Smartphone ABC,Electrónica,10,800
+3,2023-10-02,Tablet DEF,Electrónica,7,500
+4,2023-10-02,Camisa Casual,Ropa,15,40
+5,2023-10-03,Zapatos Deportivos,Calzado,8,90
+6,2023-10-03,Laptop XYZ,Electrónica,3,1200
+7,2023-10-04,Smartphone ABC,Electrónica,12,800
+8,2023-10-04,Jeans Clásicos,Ropa,20,60
+9,2023-10-05,Tablet DEF,Electrónica,6,500
+10,2023-10-05,Zapatos Formales,Calzado,5,120
+11,2023-10-06,Laptop XYZ,Electrónica,4,1200
+12,2023-10-06,Smartphone ABC,Electrónica,8,800
+13,2023-10-07,Camisa Casual,Ropa,10,40
+14,2023-10-07,Jeans Clásicos,Ropa,15,60
+15,2023-10-08,Tablet DEF,Electrónica,9,500
+16,2023-10-08,Zapatos Deportivos,Calzado,7,90
+17,2023-10-09,Laptop XYZ,Electrónica,6,1200
+18,2023-10-09,Smartphone ABC,Electrónica,11,800
+19,2023-10-10,Camisa Casual,Ropa,12,40
+20,2023-10-10,Zapatos Formales,Calzado,4,120
